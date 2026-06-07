@@ -1,0 +1,275 @@
+{
+  "note": "Curated UPSC-level MCQ bank used as a reliable fallback when the LLM is unreachable. Each day the generator deterministically samples and shuffles from here so the site always has content.",
+  "questions": [
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Fundamental Rights",
+      "question": "Which Article of the Indian Constitution guarantees the Right to Constitutional Remedies?",
+      "options": ["Article 14", "Article 19", "Article 21", "Article 32"],
+      "answer_index": 3,
+      "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering citizens to move the Supreme Court directly for enforcement of Fundamental Rights. Dr. B. R. Ambedkar called it the 'heart and soul' of the Constitution."
+    },
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Borrowed Features",
+      "question": "The Directive Principles of State Policy in the Indian Constitution are borrowed from the constitution of which country?",
+      "options": ["United States", "Ireland", "United Kingdom", "Canada"],
+      "answer_index": 1,
+      "explanation": "The Directive Principles of State Policy (Part IV) were borrowed from the Irish Constitution, which had itself drawn the idea from the Spanish Constitution. They are non-justiciable guidelines for governance."
+    },
+    {
+      "category": "Polity",
+      "difficulty": "easy",
+      "topic": "Parliament",
+      "question": "How many members can the President of India nominate to the Rajya Sabha?",
+      "options": ["2", "10", "12", "14"],
+      "answer_index": 2,
+      "explanation": "Under Article 80, the President nominates 12 members to the Rajya Sabha from persons with special knowledge or practical experience in art, literature, science and social service."
+    },
+    {
+      "category": "History",
+      "difficulty": "easy",
+      "topic": "Freedom Struggle",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": ["1930", "1942", "1945", "1947"],
+      "answer_index": 1,
+      "explanation": "The Quit India Movement was launched on 8 August 1942 at the Bombay session of the All India Congress Committee, where Gandhi gave the famous 'Do or Die' call."
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Socio-Religious Reform",
+      "question": "Who founded the Arya Samaj in 1875?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Swami Dayananda Saraswati", "Ishwar Chandra Vidyasagar"],
+      "answer_index": 2,
+      "explanation": "Swami Dayananda Saraswati founded the Arya Samaj in 1875 in Bombay. Its motto, 'Back to the Vedas', promoted social reform and opposed idol worship and casteism."
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Modern India",
+      "question": "The Battle of Plassey, which laid the foundation of British rule in Bengal, was fought in which year?",
+      "options": ["1757", "1764", "1761", "1772"],
+      "answer_index": 0,
+      "explanation": "The Battle of Plassey (1757) was fought between the British East India Company under Robert Clive and Siraj-ud-Daulah, the Nawab of Bengal. The Battle of Buxar followed in 1764."
+    },
+    {
+      "category": "Geography",
+      "difficulty": "easy",
+      "topic": "Rivers",
+      "question": "Which is the longest river flowing entirely within India?",
+      "options": ["Godavari", "Ganga", "Brahmaputra", "Yamuna"],
+      "answer_index": 1,
+      "explanation": "The Ganga (about 2,525 km) is the longest river within India. The Godavari is the longest peninsular river, often called the 'Dakshin Ganga'."
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Latitudes",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": ["6", "7", "8", "9"],
+      "answer_index": 2,
+      "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram."
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Mountain Passes",
+      "question": "Which mountain pass connects India with China in the state of Sikkim?",
+      "options": ["Nathu La", "Rohtang Pass", "Zoji La", "Palghat Gap"],
+      "answer_index": 0,
+      "explanation": "Nathu La, part of the ancient Silk Route, connects Sikkim with the Tibet Autonomous Region of China. It was reopened for border trade in 2006."
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Monetary Policy",
+      "question": "Which institution is responsible for formulating monetary policy in India?",
+      "options": ["SEBI", "Reserve Bank of India", "NITI Aayog", "Ministry of Finance"],
+      "answer_index": 1,
+      "explanation": "The Reserve Bank of India (RBI), through its Monetary Policy Committee (MPC), sets the repo rate to achieve the inflation target of 4% (plus or minus 2%)."
+    },
+    {
+      "category": "Economy",
+      "difficulty": "hard",
+      "topic": "Public Finance",
+      "question": "Fiscal deficit is best defined as:",
+      "options": ["Excess of total expenditure over total receipts excluding borrowings", "Excess of revenue expenditure over revenue receipts", "The difference between exports and imports", "Excess of government borrowing over repayment"],
+      "answer_index": 0,
+      "explanation": "Fiscal deficit equals total expenditure minus total receipts excluding borrowings. It indicates the total borrowing requirement of the government in a financial year."
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Taxation",
+      "question": "On which date was the Goods and Services Tax (GST) implemented across India?",
+      "options": ["1 April 2016", "1 July 2017", "1 January 2017", "15 August 2017"],
+      "answer_index": 1,
+      "explanation": "GST came into force on 1 July 2017 via the 101st Constitutional Amendment, replacing multiple indirect taxes under the principle of 'One Nation, One Tax'. The GST Council is its apex decision-making body."
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Space",
+      "question": "Near which lunar region did ISRO's Chandrayaan-3 successfully soft-land in 2023?",
+      "options": ["North Pole", "South Pole", "Sea of Tranquility", "Equator"],
+      "answer_index": 1,
+      "explanation": "On 23 August 2023, the Vikram lander of Chandrayaan-3 touched down near the Moon's south pole, making India the first country to land in that region."
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Atmosphere",
+      "question": "Which gas is the most abundant in the Earth's atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Argon"],
+      "answer_index": 1,
+      "explanation": "Nitrogen makes up about 78% of the atmosphere by volume, followed by oxygen at about 21%. Argon and carbon dioxide are present in much smaller amounts."
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "topic": "Biotechnology",
+      "question": "CRISPR-Cas9 is a technology primarily used for:",
+      "options": ["Vaccine production", "Gene editing", "Solar energy generation", "Water purification"],
+      "answer_index": 1,
+      "explanation": "CRISPR-Cas9 is a precise gene-editing tool. Emmanuelle Charpentier and Jennifer Doudna won the 2020 Nobel Prize in Chemistry for developing it."
+    },
+    {
+      "category": "Environment",
+      "difficulty": "easy",
+      "topic": "Conventions",
+      "question": "The Ramsar Convention is associated with the conservation of:",
+      "options": ["Wetlands", "Forests", "Deserts", "Coral reefs"],
+      "answer_index": 0,
+      "explanation": "The Ramsar Convention (1971) is an international treaty for the conservation and sustainable use of wetlands. India has over 80 designated Ramsar sites."
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Conservation",
+      "question": "In which year was Project Tiger launched in India?",
+      "options": ["1972", "1973", "1985", "1991"],
+      "answer_index": 1,
+      "explanation": "Project Tiger was launched in 1973 to protect the Bengal tiger. It is administered today by the National Tiger Conservation Authority (NTCA)."
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Atmospheric Science",
+      "question": "Which group of gases is primarily responsible for depletion of the ozone layer?",
+      "options": ["Carbon dioxide", "Methane", "Chlorofluorocarbons (CFCs)", "Nitrogen"],
+      "answer_index": 2,
+      "explanation": "Chlorofluorocarbons (CFCs) release chlorine that destroys ozone. The Montreal Protocol (1987) phases out such ozone-depleting substances."
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "Global Summits",
+      "question": "In which year did India hold the G20 Presidency and host the Leaders' Summit in New Delhi?",
+      "options": ["2021", "2022", "2023", "2024"],
+      "answer_index": 2,
+      "explanation": "India held the G20 Presidency from December 2022 to November 2023, hosting the summit in New Delhi in September 2023 under the theme 'Vasudhaiva Kutumbakam - One Earth, One Family, One Future'."
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "question": "Which city hosted the 2024 Summer Olympic Games?",
+      "options": ["Tokyo", "Paris", "Los Angeles", "Brisbane"],
+      "answer_index": 1,
+      "explanation": "Paris, France hosted the 2024 Summer Olympics. Los Angeles is scheduled to host the next edition in 2028."
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "medium",
+      "topic": "Legislation",
+      "question": "The Nari Shakti Vandan Adhiniyam (2023) provides reservation for women in which bodies?",
+      "options": ["Rajya Sabha only", "Lok Sabha and State Legislative Assemblies", "Panchayats only", "The Union Cabinet"],
+      "answer_index": 1,
+      "explanation": "Enacted as the 106th Constitutional Amendment, the Nari Shakti Vandan Adhiniyam provides 33% reservation for women in the Lok Sabha and State Legislative Assemblies."
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "easy",
+      "topic": "United Nations",
+      "question": "Where is the headquarters of the United Nations located?",
+      "options": ["Geneva", "New York", "Paris", "Vienna"],
+      "answer_index": 1,
+      "explanation": "The UN headquarters is in New York City, USA. Other major UN offices are in Geneva, Vienna and Nairobi."
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Groupings",
+      "question": "The QUAD grouping consists of India, the United States, Japan and which fourth country?",
+      "options": ["United Kingdom", "Australia", "France", "South Korea"],
+      "answer_index": 1,
+      "explanation": "The QUAD (Quadrilateral Security Dialogue) comprises India, the USA, Japan and Australia, focusing on a free, open and inclusive Indo-Pacific."
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Groupings",
+      "question": "Which country joined the original BRIC grouping in 2010 to form BRICS?",
+      "options": ["South Korea", "South Africa", "Singapore", "Saudi Arabia"],
+      "answer_index": 1,
+      "explanation": "South Africa joined Brazil, Russia, India and China in 2010, turning BRIC into BRICS. The grouping expanded further with new members from 2024."
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Classical Dance",
+      "question": "The classical dance form Bharatanatyam originated in which Indian state?",
+      "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Karnataka"],
+      "answer_index": 1,
+      "explanation": "Bharatanatyam originated in Tamil Nadu and is one of the eight classical dance forms of India recognised by the Sangeet Natak Akademi."
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "medium",
+      "topic": "Architecture",
+      "question": "The Khajuraho group of temples was built by which dynasty?",
+      "options": ["Cholas", "Chandelas", "Pallavas", "Rashtrakutas"],
+      "answer_index": 1,
+      "explanation": "The Khajuraho temples were built by the Chandela dynasty between the 9th and 11th centuries. They are a UNESCO World Heritage Site known for Nagara-style architecture."
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Classical Dance",
+      "question": "Kathakali, known for its elaborate costumes and facial expressions, is a classical dance form of which state?",
+      "options": ["Odisha", "Kerala", "Manipur", "Assam"],
+      "answer_index": 1,
+      "explanation": "Kathakali is a classical dance-drama of Kerala, distinguished by its colourful make-up, elaborate costumes and stylised expressions drawn from epics."
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Agriculture",
+      "question": "Under the PM-KISAN scheme, what annual income support is given to eligible farmer families?",
+      "options": ["Rs 2,000", "Rs 6,000", "Rs 10,000", "Rs 12,000"],
+      "answer_index": 1,
+      "explanation": "PM-KISAN provides Rs 6,000 per year to eligible farmer families in three equal installments of Rs 2,000, transferred directly to bank accounts."
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "medium",
+      "topic": "Health",
+      "question": "Ayushman Bharat (PM-JAY) provides health cover of up to how much per family per year?",
+      "options": ["Rs 1 lakh", "Rs 3 lakh", "Rs 5 lakh", "Rs 10 lakh"],
+      "answer_index": 2,
+      "explanation": "PM-JAY provides health cover of up to Rs 5 lakh per family per year for secondary and tertiary care hospitalisation. It is among the world's largest health assurance schemes."
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Social Welfare",
+      "question": "In which year was the Beti Bachao Beti Padhao scheme launched?",
+      "options": ["2014", "2015", "2016", "2017"],
+      "answer_index": 1,
+      "explanation": "Beti Bachao Beti Padhao was launched in January 2015 from Panipat, Haryana, to address the declining child sex ratio and promote education of the girl child."
+    }
+  ]
+}

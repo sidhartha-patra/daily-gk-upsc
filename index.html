@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Daily GK &amp; UPSC Trainer</title>
+  <meta name="description" content="A fresh set of 30 UPSC-standard general knowledge and world-affairs MCQs every day, with detailed explanations and learning progress tracking." />
+  <meta property="og:title" content="Daily GK &amp; UPSC Trainer" />
+  <meta property="og:description" content="30 fresh UPSC / world-affairs MCQs every day with detailed explanations. Track your streak, mastery and mistakes." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎯</text></svg>" />
+  <link rel="stylesheet" href="assets/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">🎯</span>
+        <div class="brand-text">
+          <h1>Daily GK &amp; UPSC Trainer</h1>
+          <p id="subtitle">Loading today's set…</p>
+        </div>
+      </div>
+      <div class="topbar-actions">
+        <div class="streak-pill" id="streakPill" title="Current daily streak">
+          <span class="flame">🔥</span><span id="streakCount">0</span>
+        </div>
+        <button class="icon-btn" id="shareBtn" title="Share this app">🔗</button>
+        <button class="icon-btn" id="themeBtn" title="Toggle light / dark">🌗</button>
+      </div>
+    </header>
+
+    <nav class="tabs" role="tablist">
+      <button class="tab active" data-view="today" role="tab">📝 Today</button>
+      <button class="tab" data-view="dashboard" role="tab">📊 Dashboard</button>
+      <button class="tab" data-view="archive" role="tab">🗂️ Archive</button>
+      <button class="tab" data-view="review" role="tab">🔁 Review</button>
+    </nav>
+
+    <main>
+      <!-- TODAY -->
+      <section id="view-today" class="view active">
+        <div class="view-head">
+          <div>
+            <h2 id="todayTitle">Today's Test</h2>
+            <p class="muted" id="todayMeta"></p>
+          </div>
+          <div class="view-head-actions">
+            <span class="badge" id="genBadge" hidden></span>
+          </div>
+        </div>
+
+        <div class="filter-row" id="categoryFilter"></div>
+
+        <div id="quizStatus" class="empty hidden"></div>
+        <div id="quizList" class="quiz-list"></div>
+
+        <div class="quiz-footer" id="quizFooter" hidden>
+          <button class="btn primary" id="finishBtn">Finish &amp; Save Result</button>
+          <button class="btn ghost" id="resetBtn">Reset Today</button>
+        </div>
+      </section>
+
+      <!-- DASHBOARD -->
+      <section id="view-dashboard" class="view">
+        <div class="view-head"><h2>Your Learning Dashboard</h2></div>
+        <div class="stat-grid" id="statGrid"></div>
+
+        <h3 class="section-title">Category Mastery</h3>
+        <div class="mastery" id="masteryList"></div>
+
+        <h3 class="section-title">Activity (last 17 weeks)</h3>
+        <div class="heatmap-wrap"><div class="heatmap" id="heatmap"></div></div>
+        <div class="heatmap-legend">
+          <span class="muted">Less</span>
+          <span class="hm-cell l0"></span><span class="hm-cell l1"></span>
+          <span class="hm-cell l2"></span><span class="hm-cell l3"></span><span class="hm-cell l4"></span>
+          <span class="muted">More</span>
+        </div>
+
+        <h3 class="section-title">Recent Attempts</h3>
+        <div class="recent" id="recentList"></div>
+        <div class="danger-row">
+          <button class="btn danger-ghost" id="exportBtn">⬇ Export progress</button>
+          <button class="btn danger-ghost" id="wipeBtn">Reset all progress</button>
+        </div>
+      </section>
+
+      <!-- ARCHIVE -->
+      <section id="view-archive" class="view">
+        <div class="view-head"><h2>Archive</h2></div>
+        <p class="muted">Revisit and practise any previous day's set.</p>
+        <div class="archive-list" id="archiveList"></div>
+      </section>
+
+      <!-- REVIEW -->
+      <section id="view-review" class="view">
+        <div class="view-head">
+          <h2>Review Mistakes</h2>
+          <button class="btn ghost" id="clearMistakesBtn">Clear all</button>
+        </div>
+        <p class="muted">Questions you answered incorrectly are collected here so you can master them.</p>
+        <div id="reviewList" class="quiz-list"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Built for self-study. Questions are AI-generated and may occasionally contain errors — verify important facts. Educational use only.</p>
+    </footer>
+  </div>
+
+  <div id="toast" class="toast" hidden></div>
+  <script src="assets/app.js"></script>
+</body>
+</html>

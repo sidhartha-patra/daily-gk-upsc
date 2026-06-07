@@ -1,0 +1,47 @@
+name: daily-quiz
+
+# Generates a fresh 30-question UPSC / GK set every morning and commits it.
+# Because Pages is served from the main branch, the commit auto-republishes the site.
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # 00:30 UTC == 06:00 IST, every day
+  workflow_dispatch:        # allow manual runs (use this for the very first build)
+
+permissions:
+  contents: write   # commit the generated data
+  models: read      # call GitHub Models with the workflow token
+
+concurrency:
+  group: daily-quiz
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate today's quiz
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LLM_MODEL: openai/gpt-4o-mini
+        run: python scripts/generate_quiz.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "data: daily quiz $(date -u +%Y-%m-%d)"
+            git push
+          fi

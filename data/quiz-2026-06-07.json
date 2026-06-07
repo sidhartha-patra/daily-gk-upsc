@@ -1,0 +1,482 @@
+{
+  "date": "2026-06-07",
+  "generated_at": "2026-06-07T13:52:30.420208+05:30",
+  "generator": "github-models:openai/gpt-4o-mini",
+  "categories": [
+    "Polity",
+    "History",
+    "Geography",
+    "Economy",
+    "Science & Tech",
+    "Environment",
+    "Current Affairs",
+    "International Relations",
+    "Art & Culture",
+    "Govt Schemes"
+  ],
+  "category_counts": {
+    "Polity": 3,
+    "History": 3,
+    "Geography": 3,
+    "Economy": 3,
+    "Science & Tech": 3,
+    "Environment": 3,
+    "Current Affairs": 3,
+    "International Relations": 3,
+    "Art & Culture": 3,
+    "Govt Schemes": 3
+  },
+  "count": 30,
+  "questions": [
+    {
+      "category": "Polity",
+      "difficulty": "easy",
+      "topic": "Fundamental Rights",
+      "question": "Which of the following is NOT a Fundamental Right under the Indian Constitution?",
+      "options": [
+        "Right to Equality",
+        "Right to Freedom of Religion",
+        "Right to Property",
+        "Right to Constitutional Remedies"
+      ],
+      "answer_index": 2,
+      "explanation": "The Right to Property was initially a Fundamental Right under Article 31 but was removed by the 44th Amendment Act in 1978 and is now a legal right under Article 300A.",
+      "id": "2026-06-07-01"
+    },
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Parliamentary System",
+      "question": "In the context of Indian parliamentary democracy, which of the following statements is true regarding the Prime Minister?",
+      "options": [
+        "The Prime Minister can be a member of the Rajya Sabha.",
+        "The Prime Minister must be a member of the Lok Sabha.",
+        "The Prime Minister is appointed by the President without any conditions.",
+        "The Prime Minister cannot be dismissed by the President."
+      ],
+      "answer_index": 0,
+      "explanation": "The Prime Minister of India can indeed be a member of the Rajya Sabha or the Lok Sabha. However, it is essential that they hold the confidence of the Lok Sabha, which is the lower house of Parliament.",
+      "id": "2026-06-07-02"
+    },
+    {
+      "category": "Polity",
+      "difficulty": "hard",
+      "topic": "Constitutional Provisions",
+      "question": "Which of the following Articles of the Indian Constitution provides for the establishment of a 'Finance Commission'?",
+      "options": [
+        "Article 280",
+        "Article 275",
+        "Article 279",
+        "Article 286"
+      ],
+      "answer_index": 0,
+      "explanation": "Article 280 of the Indian Constitution mandates the establishment of a Finance Commission every five years to review the financial position of the states and recommend the distribution of taxes between the central and state governments.",
+      "id": "2026-06-07-03"
+    },
+    {
+      "category": "History",
+      "difficulty": "easy",
+      "topic": "Ancient India",
+      "question": "Which ancient Indian text is considered to be one of the earliest treatises on statecraft and military strategy?",
+      "options": [
+        "Arthashastra",
+        "Manusmriti",
+        "Vedas",
+        "Upanishads"
+      ],
+      "answer_index": 0,
+      "explanation": "The Arthashastra, written by Kautilya (Chanakya), is an ancient Indian text that deals with statecraft, economic policy, and military strategy. It is considered one of the earliest works on governance and has been influential in political thought.",
+      "id": "2026-06-07-04"
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Medieval India",
+      "question": "Which Mughal emperor is known for his policy of religious tolerance and the establishment of the Din-i Ilahi?",
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Aurangzeb",
+        "Babur"
+      ],
+      "answer_index": 0,
+      "explanation": "Akbar the Great is renowned for his policy of religious tolerance, exemplified by the establishment of the Din-i Ilahi, which sought to blend elements of various religions. His efforts aimed to promote harmony among the diverse religious communities in his empire.",
+      "id": "2026-06-07-05"
+    },
+    {
+      "category": "History",
+      "difficulty": "hard",
+      "topic": "Indian Independence Movement",
+      "question": "Which of the following events is considered a turning point in the Indian National Movement, leading to a shift towards more radical approaches after 1907?",
+      "options": [
+        "Lucknow Pact",
+        "Partition of Bengal",
+        "Surat Split",
+        "Champaran Satyagraha"
+      ],
+      "answer_index": 2,
+      "explanation": "The Surat Split in 1907 marked a significant turning point in the Indian National Movement as it led to a division between the moderates and the extremists within the Indian National Congress. This split contributed to the rise of more radical approaches in the struggle for independence.",
+      "id": "2026-06-07-06"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "easy",
+      "topic": "Rivers",
+      "question": "Which river is known as the 'Sorrow of Bengal' due to its frequent flooding?",
+      "options": [
+        "Brahmaputra",
+        "Ganges",
+        "Teesta",
+        "Damodar"
+      ],
+      "answer_index": 3,
+      "explanation": "The Damodar River is often referred to as the 'Sorrow of Bengal' due to its history of devastating floods, which have caused significant damage to the surrounding areas. It flows through the states of Jharkhand and West Bengal.",
+      "id": "2026-06-07-07"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Climate Zones",
+      "question": "Which of the following regions in India experiences a tropical wet and dry climate?",
+      "options": [
+        "Western Ghats",
+        "Punjab",
+        "Rajasthan",
+        "Andaman Islands"
+      ],
+      "answer_index": 2,
+      "explanation": "Rajasthan experiences a tropical wet and dry climate, characterized by hot summers and dry winters. This climate type is common in areas that have a significant seasonal variation in rainfall.",
+      "id": "2026-06-07-08"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "hard",
+      "topic": "Geological Features",
+      "question": "Which of the following mountains is part of the Himalayas but is not located in India?",
+      "options": [
+        "Kangchenjunga",
+        "Nanga Parbat",
+        "K2",
+        "Mount Everest"
+      ],
+      "answer_index": 2,
+      "explanation": "K2, also known as Mount Godwin-Austen, is the second highest mountain in the world and is part of the Karakoram range, which is located on the border between Pakistan and China. Unlike Kangchenjunga and Mount Everest, which are located in India and Nepal respectively, K2 is not situated within Indian territory.",
+      "id": "2026-06-07-09"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Inflation",
+      "question": "What is the primary measure used to calculate inflation in India?",
+      "options": [
+        "Consumer Price Index (CPI)",
+        "Wholesale Price Index (WPI)",
+        "GDP Deflator",
+        "Interest Rate Index"
+      ],
+      "answer_index": 0,
+      "explanation": "The Consumer Price Index (CPI) is the primary measure used to calculate inflation in India. It reflects the average change over time in the prices paid by consumers for a basket of goods and services.",
+      "id": "2026-06-07-10"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "medium",
+      "topic": "Economic Growth",
+      "question": "Which of the following factors is NOT considered a part of the GDP calculation?",
+      "options": [
+        "Government Spending",
+        "Net Exports",
+        "Household Savings",
+        "Investment by Businesses"
+      ],
+      "answer_index": 2,
+      "explanation": "Household savings are not directly included in the GDP calculation. GDP includes government spending, net exports (exports minus imports), and business investments, but household savings are a component of the overall economy that affects GDP indirectly.",
+      "id": "2026-06-07-11"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "hard",
+      "topic": "Trade Policy",
+      "question": "Which of the following policies aims to restrict imports and promote domestic industries in India?",
+      "options": [
+        "Free Trade Agreement",
+        "Import Substitution",
+        "Trade Liberalization",
+        "Export Promotion"
+      ],
+      "answer_index": 1,
+      "explanation": "Import substitution is a trade policy that aims to restrict imports by promoting domestic industries. This approach encourages local production to reduce dependency on foreign goods, thereby fostering self-sufficiency in the economy.",
+      "id": "2026-06-07-12"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Space Exploration",
+      "question": "Which planet is known as the 'Red Planet'?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Saturn",
+        "Venus"
+      ],
+      "answer_index": 0,
+      "explanation": "Mars is commonly referred to as the 'Red Planet' due to its reddish appearance, which is a result of iron oxide, commonly known as rust, on its surface.",
+      "id": "2026-06-07-13"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "topic": "Biotechnology",
+      "question": "Which of the following is a common application of nanotechnology in medicine?",
+      "options": [
+        "Gene therapy",
+        "Nanoparticles for drug delivery",
+        "Cloning",
+        "Stem cell therapy"
+      ],
+      "answer_index": 1,
+      "explanation": "Nanoparticles are used in drug delivery to improve the absorption and effectiveness of medications, enabling targeted treatment and reduced side effects, which is a significant advancement in nanotechnology applications in medicine.",
+      "id": "2026-06-07-14"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "hard",
+      "topic": "Renewable Energy",
+      "question": "What is the primary mechanism by which solar panels convert sunlight into electricity?",
+      "options": [
+        "Photovoltaic effect",
+        "Thermal conduction",
+        "Photoelectric effect",
+        "Electromagnetic induction"
+      ],
+      "answer_index": 2,
+      "explanation": "Solar panels primarily convert sunlight into electricity through the photoelectric effect, where photons from sunlight knock electrons loose from atoms in the solar panel material, generating an electric current.",
+      "id": "2026-06-07-15"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "easy",
+      "topic": "Biodiversity",
+      "question": "Which of the following is the largest biodiversity hotspot in the world?",
+      "options": [
+        "Amazon rainforest",
+        "Sundaland",
+        "Madagascar and Indian Ocean Islands",
+        "Eastern Himalayas"
+      ],
+      "answer_index": 0,
+      "explanation": "The Amazon rainforest is recognized as the largest biodiversity hotspot in the world, home to an unparalleled variety of plant and animal species, many of which are endemic. Its vast area and complex ecosystems contribute significantly to global biodiversity.",
+      "id": "2026-06-07-16"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Climate Change",
+      "question": "Which of the following gases is considered a significant contributor to global warming due to its long atmospheric lifetime and potency?",
+      "options": [
+        "Carbon Dioxide",
+        "Methane",
+        "Nitrous Oxide",
+        "Sulfur Dioxide"
+      ],
+      "answer_index": 1,
+      "explanation": "Methane (CH4) is a potent greenhouse gas with a global warming potential significantly greater than carbon dioxide over a 20-year period. Its atmospheric lifetime is shorter than CO2, but it is much more effective at trapping heat, making it a key contributor to climate change.",
+      "id": "2026-06-07-17"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "hard",
+      "topic": "Conservation",
+      "question": "The term 'Ecological Footprint' primarily refers to:",
+      "options": [
+        "The area of land required to support a population's resource consumption",
+        "The total biomass of an ecosystem",
+        "The genetic diversity within a species",
+        "The impact of urbanization on rural areas"
+      ],
+      "answer_index": 0,
+      "explanation": "The 'Ecological Footprint' measures the amount of biologically productive land and water area required to produce the resources consumed by a population and to absorb its waste. It is a key indicator of sustainability and helps assess the environmental impact of human activities.",
+      "id": "2026-06-07-18"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "International Relations",
+      "question": "Which country recently hosted the COP28 climate change conference in 2023?",
+      "options": [
+        "United Arab Emirates",
+        "India",
+        "Germany",
+        "Canada"
+      ],
+      "answer_index": 0,
+      "explanation": "The COP28 climate change conference was hosted by the United Arab Emirates in 2023, focusing on global efforts to combat climate change and implement the goals of the Paris Agreement.",
+      "id": "2026-06-07-19"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "medium",
+      "topic": "Global Economy",
+      "question": "What major agreement was reached by the BRICS nations in 2023 regarding currency use?",
+      "options": [
+        "Formation of a common currency",
+        "Increased use of local currencies for trade",
+        "Elimination of tariffs",
+        "Joint investment fund for infrastructure"
+      ],
+      "answer_index": 1,
+      "explanation": "In 2023, the BRICS nations agreed to enhance the use of local currencies in trade among themselves, which aims to reduce reliance on the US dollar and promote economic cooperation within the bloc.",
+      "id": "2026-06-07-20"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "hard",
+      "topic": "Geopolitical Developments",
+      "question": "Which two nations signed a historic peace agreement in 2023, formally ending decades of territorial disputes?",
+      "options": [
+        "India and Pakistan",
+        "China and Taiwan",
+        "Russia and Ukraine",
+        "Armenia and Azerbaijan"
+      ],
+      "answer_index": 3,
+      "explanation": "In 2023, Armenia and Azerbaijan signed a historic peace agreement that aimed to formally end hostilities and territorial disputes stemming from the Nagorno-Karabakh conflict, marking a significant step towards regional stability.",
+      "id": "2026-06-07-21"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "easy",
+      "topic": "Global Alliances",
+      "question": "Which country is a member of the European Union but not a member of the Eurozone?",
+      "options": [
+        "Sweden",
+        "Germany",
+        "France",
+        "Spain"
+      ],
+      "answer_index": 0,
+      "explanation": "Sweden is a member of the European Union but has not adopted the euro as its currency, thus remaining outside the Eurozone. This is significant as it reflects the diversity of economic policies within the EU.",
+      "id": "2026-06-07-22"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Regional Cooperation",
+      "question": "Which organization recently expanded its membership to include new countries in 2026, reflecting growing global multipolarity?",
+      "options": [
+        "NATO",
+        "G7",
+        "BRICS",
+        "ASEAN"
+      ],
+      "answer_index": 2,
+      "explanation": "In 2026, BRICS expanded its membership to include several new countries, highlighting the organization's intent to enhance its global influence and represent a multipolar world. This expansion marks a significant shift in international relations.",
+      "id": "2026-06-07-23"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "hard",
+      "topic": "Geopolitical Dynamics",
+      "question": "Which recent agreement aims to establish a security framework in the Indo-Pacific region to counter Chinese influence?",
+      "options": [
+        "AUKUS",
+        "RCEP",
+        "TTP",
+        "CPTPP"
+      ],
+      "answer_index": 0,
+      "explanation": "AUKUS, a trilateral security pact between Australia, the United Kingdom, and the United States, aims to enhance military cooperation and technology sharing in the Indo-Pacific region to counterbalance China's growing influence. This agreement signifies a strategic alignment among key democracies.",
+      "id": "2026-06-07-24"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Indian Paintings",
+      "question": "Which of the following is a traditional form of painting that originated in the state of Madhya Pradesh, characterized by its vibrant colors and tribal themes?",
+      "options": [
+        "Warli",
+        "Madhubani",
+        "Pattachitra",
+        "Tanjore"
+      ],
+      "answer_index": 0,
+      "explanation": "Warli painting is a traditional tribal art form from Maharashtra and Madhya Pradesh, known for its simple yet expressive figures depicting daily life and nature, typically using white pigment on a mud base.",
+      "id": "2026-06-07-25"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "medium",
+      "topic": "Indian Literature",
+      "question": "Which of the following works is attributed to the ancient Indian poet Kalidasa?",
+      "options": [
+        "Shakuntala",
+        "Ramayana",
+        "Mahabharata",
+        "Gita Govinda"
+      ],
+      "answer_index": 0,
+      "explanation": "Kalidasa is one of the greatest Sanskrit poets and playwrights, and 'Shakuntala' is his most celebrated work, a beautiful play that tells the story of Shakuntala and King Dushyanta.",
+      "id": "2026-06-07-26"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "hard",
+      "topic": "Indian Architecture",
+      "question": "Which architectural style is characterized by its intricate stone carvings, and is predominantly found in the temples of the Western Indian state of Gujarat?",
+      "options": [
+        "Hoysala",
+        "Dravidian",
+        "Solanki",
+        "Chalukyan"
+      ],
+      "answer_index": 2,
+      "explanation": "The Solanki architectural style is noted for its elaborate stone carvings, particularly seen in the temples of Gujarat, including the famous Sun Temple at Modhera, which reflects the rich artistic heritage of the region.",
+      "id": "2026-06-07-27"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Pradhan Mantri Awas Yojana",
+      "question": "What is the primary objective of the Pradhan Mantri Awas Yojana (PMAY)?",
+      "options": [
+        "To provide affordable housing for the urban poor",
+        "To promote digital literacy among women",
+        "To enhance agricultural productivity",
+        "To support small-scale industries"
+      ],
+      "answer_index": 0,
+      "explanation": "The Pradhan Mantri Awas Yojana (PMAY) aims to provide affordable housing for the urban poor, ensuring housing for all by 2022. It addresses the housing shortage in urban areas through financial assistance and subsidies.",
+      "id": "2026-06-07-28"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "medium",
+      "topic": "Skill India",
+      "question": "Which of the following schemes is a part of the Skill India initiative aimed at enhancing the employability of youth?",
+      "options": [
+        "Pradhan Mantri Mudra Yojana",
+        "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+        "Atal Pension Yojana",
+        "National Rural Livelihood Mission"
+      ],
+      "answer_index": 1,
+      "explanation": "The Deen Dayal Upadhyaya Grameen Kaushalya Yojana is a part of the Skill India initiative, focused on enhancing the employability of rural youth by providing skill training and promoting entrepreneurship.",
+      "id": "2026-06-07-29"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "hard",
+      "topic": "Digital India",
+      "question": "Which of the following statements is NOT true regarding the Digital India initiative?",
+      "options": [
+        "It aims to transform India into a digitally empowered society.",
+        "It includes the establishment of Wi-Fi hotspots in rural areas.",
+        "It provides direct cash transfers to farmers.",
+        "It promotes e-governance to improve service delivery."
+      ],
+      "answer_index": 2,
+      "explanation": "The statement about direct cash transfers to farmers is NOT true regarding the Digital India initiative. Digital India focuses on leveraging technology to enhance digital infrastructure, improve governance, and empower citizens, rather than direct cash transfers, which are part of separate agricultural schemes.",
+      "id": "2026-06-07-30"
+    }
+  ]
+}

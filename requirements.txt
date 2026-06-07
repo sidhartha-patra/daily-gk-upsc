@@ -1,0 +1,5 @@
+# Runtime dependency for the Streamlit view only.
+# The daily generator (scripts/generate_quiz.py) and the static web app use no
+# third-party packages — the generator is intentionally standard-library only so
+# it runs in CI without an install step.
+streamlit>=1.36
