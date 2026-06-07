@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T14:35:36.574560+05:30",
+  "generated_at": "2026-06-07T14:44:46.867917+05:30",
   "generator": "github-models:openai/gpt-4o-mini",
   "categories": [
     "Polity",
@@ -29,10 +29,16 @@
   "count": 30,
   "news": [
     {
-      "title": "IND vs AFG Live Score, One-Off Test Match Day 2: India 564/8 declared vs Afghanistan in Mullanpur - The Indian Express",
+      "title": "IND vs AFG Live Score, One-Off Test Match Day 2: India 564/8 declared vs Afghanistan at Mullanpur - The Indian Express",
       "source": "Google News India",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNlN1SXc5b0NFck03QkF5UGJwQVp2WVJSSjFPR2w5TEsyU2k3SFk1Y3JnZzJtSGdhWVZEazN5bE1QVDBENEFSUkU2cERldE5VenB4U3laSG1zVEREZE1vaUNKZFVlUE9MVTFKU2FGUHU4RVYxM0tseDZZVmk5d3JUeXNwVmtyaEk2UlFwb1hHdGp3RUtWYXV6S3J4VzBjTzBKcnVEXzdiWExVY1haakNhR1d1RUVfTGk2RG5ITEV5Ymkwa3Uyb1ZSNVc2UUhoNmg4NGpIUTJhMm53TTFnMjRjSG10NXhrd1pnZUswQzJoS2lBZW00M3lQNHBoeS1hcjNhVlFqVmhn?oc=5",
-      "published": "2026-06-07T09:00:00+00:00"
+      "published": "2026-06-07T09:10:10+00:00"
+    },
+    {
+      "title": "CMDA holds stakeholder meeting on online building planning system",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/chennai/cmda-holds-stakeholder-meeting-on-online-building-planning-system/article71070821.ece",
+      "published": "2026-06-07T14:35:13+05:30"
     },
     {
       "title": "Andhra University to re-conduct B.Sc. Chemistry examination on June 9",
@@ -165,12 +171,6 @@
       "source": "The Hindu - National",
       "link": "https://www.thehindu.com/news/national/our-agitation-will-continue-until-union-minister-pradhan-resigns-cockroach-janta-party-founder-dipke/article71072533.ece",
       "published": "2026-06-07T13:11:59+05:30"
-    },
-    {
-      "title": "U.S. says shot down Iran drones in fresh escalation",
-      "source": "The Hindu - International",
-      "link": "https://www.thehindu.com/news/international/us-says-shot-down-iran-drones-in-fresh-escalation/article71072392.ece",
-      "published": "2026-06-07T13:11:04+05:30"
     }
   ],
   "questions": [
@@ -178,450 +178,450 @@
       "category": "Polity",
       "difficulty": "easy",
       "topic": "Fundamental Rights",
-      "question": "Which of the following is a right guaranteed under the Right to Equality in the Constitution of India?",
+      "question": "Which of the following is a fundamental right under the Constitution of India?",
       "options": [
-        "Equality before law",
-        "Right to property",
-        "Freedom of speech",
-        "Right to education"
+        "Right to Education",
+        "Right to Work",
+        "Right to Property",
+        "Right to Privacy"
       ],
       "answer_index": 0,
-      "explanation": "The Right to Equality, as per Articles 14 to 18 of the Indian Constitution, guarantees equality before the law and equal protection of the laws to all individuals. This ensures that every individual is treated equally and without discrimination.",
+      "explanation": "The Right to Education is a fundamental right under Article 21A of the Constitution, which mandates free and compulsory education for children aged 6 to 14 years. The Right to Privacy, while recognized by the Supreme Court, is not explicitly listed as a fundamental right in the Constitution.",
       "id": "2026-06-07-01"
     },
     {
       "category": "Polity",
       "difficulty": "medium",
-      "topic": "Parliamentary System",
-      "question": "Which of the following statements correctly describes the concept of 'Collective Responsibility' in the Indian parliamentary system?",
+      "topic": "Constitutional Provisions",
+      "question": "Which article of the Indian Constitution provides for the establishment of the Finance Commission?",
       "options": [
-        "The Prime Minister can be removed by the President alone.",
-        "All ministers are collectively responsible to the President.",
-        "The Council of Ministers is collectively responsible to the Lok Sabha.",
-        "The Prime Minister is solely responsible for all government decisions."
+        "Article 280",
+        "Article 300",
+        "Article 245",
+        "Article 356"
       ],
-      "answer_index": 2,
-      "explanation": "The principle of 'Collective Responsibility' means that the Council of Ministers holds collective responsibility to the Lok Sabha. This implies that if the Lok Sabha passes a no-confidence motion against the Council, all ministers, including the Prime Minister, must resign.",
+      "answer_index": 0,
+      "explanation": "Article 280 of the Indian Constitution mandates the establishment of a Finance Commission by the President every five years to recommend the distribution of net proceeds of taxes between the Centre and the States and among the States themselves.",
       "id": "2026-06-07-02"
     },
     {
       "category": "Polity",
       "difficulty": "hard",
       "topic": "Amendments",
-      "question": "Which of the following Constitutional Amendments reduced the age of voting from 21 years to 18 years in India?",
+      "question": "Which of the following statements about the 73rd Constitutional Amendment Act, 1992 is NOT correct?",
       "options": [
-        "61st Amendment",
-        "73rd Amendment",
-        "86th Amendment",
-        "42nd Amendment"
+        "It provides for the establishment of Panchayati Raj institutions.",
+        "It mandates the reservation of seats for Scheduled Castes and Scheduled Tribes.",
+        "It allows for the dissolution of Panchayats without elections.",
+        "It empowers State Legislatures to make provisions for the composition of Panchayats."
       ],
-      "answer_index": 0,
-      "explanation": "The 61st Amendment to the Constitution of India, enacted in 1988, specifically lowered the voting age from 21 years to 18 years for elections to the Lok Sabha and state assemblies, thereby enhancing electoral participation among the youth.",
+      "answer_index": 2,
+      "explanation": "The 73rd Amendment Act mandates the establishment of Panchayati Raj institutions and includes provisions for the reservation of seats for SCs and STs. However, it does not allow for the dissolution of Panchayats without elections, as regular elections must be held to maintain democratic governance at the local level.",
       "id": "2026-06-07-03"
     },
     {
       "category": "History",
       "difficulty": "easy",
-      "topic": "Ancient India",
-      "question": "Which of the following texts is considered the earliest surviving work of Indian literature?",
+      "topic": "Independence Movement",
+      "question": "Who was the leader of the Indian National Congress during the Quit India Movement of 1942?",
       "options": [
-        "Rigveda",
-        "Mahabharata",
-        "Ramayana",
-        "Puranas"
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Sardar Vallabhbhai Patel"
       ],
       "answer_index": 0,
-      "explanation": "The Rigveda is the oldest of the four Vedas and is considered the earliest surviving work of Indian literature. Composed in early Sanskrit, it consists of hymns and is foundational to the understanding of early Indian civilization.",
+      "explanation": "Mahatma Gandhi was the leader of the Indian National Congress at the time of the Quit India Movement in 1942. He called for immediate independence from British rule, which mobilized the masses and led to significant protests across the country.",
       "id": "2026-06-07-04"
     },
     {
       "category": "History",
       "difficulty": "medium",
-      "topic": "Medieval India",
-      "question": "Which of the following rulers founded the Mughal Empire in India?",
+      "topic": "Ancient India",
+      "question": "Which of the following dynasties is known for the construction of the famous rock-cut caves at Ajanta?",
       "options": [
-        "Akbar",
-        "Babur",
-        "Shah Jahan",
-        "Aurangzeb"
+        "Gupta Dynasty",
+        "Maurya Dynasty",
+        "Chola Dynasty",
+        "Pala Dynasty"
       ],
-      "answer_index": 1,
-      "explanation": "Babur, a descendant of Timur, founded the Mughal Empire in India after his victory at the First Battle of Panipat in 1526. His establishment of a centralized empire marked the beginning of a significant period in Indian history.",
+      "answer_index": 0,
+      "explanation": "The Ajanta caves were primarily carved during the Gupta period, which is often referred to as a golden age of Indian art and culture. These caves are renowned for their intricate sculptures and frescoes, reflecting the artistic excellence of the Gupta Dynasty.",
       "id": "2026-06-07-05"
     },
     {
       "category": "History",
       "difficulty": "hard",
-      "topic": "Colonial India",
-      "question": "Which of the following acts introduced the system of dyarchy in provincial governance in British India?",
+      "topic": "Medieval India",
+      "question": "Which of the following events marked the beginning of the First Anglo-Sikh War?",
       "options": [
-        "Government of India Act 1919",
-        "Government of India Act 1935",
-        "Indian Independence Act 1947",
-        "Montagu-Chelmsford Reforms"
+        "Treaty of Lahore",
+        "Battle of Ferozeshah",
+        "Annexation of Punjab",
+        "Battle of Sobraon"
       ],
-      "answer_index": 1,
-      "explanation": "The Government of India Act 1935 introduced dyarchy in the provinces, dividing responsibilities between elected Indian ministers and British officials. This was a significant constitutional reform aimed at increasing Indian participation in governance.",
+      "answer_index": 2,
+      "explanation": "The First Anglo-Sikh War began in 1845 and was precipitated by the annexation of Punjab by the British. This annexation led to tensions and ultimately resulted in military conflict between the British East India Company and the Sikh Empire.",
       "id": "2026-06-07-06"
     },
     {
       "category": "Geography",
       "difficulty": "easy",
-      "topic": "Physical Geography",
-      "question": "Which of the following is the longest river in India?",
+      "topic": "Landforms",
+      "question": "Which of the following is a major desert located in northern Africa?",
       "options": [
-        "Ganges",
-        "Brahmaputra",
-        "Indus",
-        "Godavari"
+        "Sahara",
+        "Gobi",
+        "Kalahari",
+        "Atacama"
       ],
       "answer_index": 0,
-      "explanation": "The Ganges, known as 'Ganga' in India, is approximately 2,525 kilometers long, making it the longest river in India. It flows through the northern part of the country and is a crucial water source for millions.",
+      "explanation": "The Sahara is the largest hot desert in the world and spans across several countries in northern Africa. It is characterized by its arid climate and vast stretches of sand dunes.",
       "id": "2026-06-07-07"
     },
     {
       "category": "Geography",
       "difficulty": "medium",
-      "topic": "Climatology",
-      "question": "Which of the following regions experiences a Mediterranean climate?",
+      "topic": "Climate Zones",
+      "question": "Which of the following regions is known for having a tropical rainforest climate?",
       "options": [
-        "Northern California",
-        "Siberia",
         "Amazon Basin",
-        "Sahara Desert"
+        "Siberian Tundra",
+        "Great Basin",
+        "Patagonian Desert"
       ],
       "answer_index": 0,
-      "explanation": "Northern California experiences a Mediterranean climate characterized by dry summers and wet winters. This climate type is typically found in regions along the Mediterranean Sea and has specific temperature and precipitation patterns.",
+      "explanation": "The Amazon Basin is characterized by its dense forests and high levels of rainfall, making it one of the largest regions with a tropical rainforest climate in the world.",
       "id": "2026-06-07-08"
     },
     {
       "category": "Geography",
       "difficulty": "hard",
-      "topic": "Geographical Features",
-      "question": "Which mountain range separates Europe from Asia?",
+      "topic": "Physical Geography",
+      "question": "Which mountain range is primarily responsible for forming the rain shadow effect in the Indian subcontinent?",
       "options": [
-        "Andes",
+        "Western Ghats",
         "Himalayas",
-        "Ural Mountains",
-        "Rocky Mountains"
+        "Aravalli Range",
+        "Eastern Ghats"
       ],
-      "answer_index": 2,
-      "explanation": "The Ural Mountains are traditionally considered the natural boundary separating Europe from Asia. This mountain range stretches from the Arctic Ocean in the north to the Ural River and Caspian Sea in the south, marking the continental divide.",
+      "answer_index": 1,
+      "explanation": "The Himalayas create a significant barrier to the southwest monsoon winds, causing heavy rainfall on the windward side while resulting in dry conditions in the rain shadow region to the north, particularly in parts of Ladakh and western Tibet.",
       "id": "2026-06-07-09"
     },
     {
       "category": "Economy",
       "difficulty": "easy",
-      "topic": "Inflation",
-      "question": "What is the primary measure used to calculate inflation in India?",
+      "topic": "Monetary Policy",
+      "question": "Which of the following is the primary objective of the monetary policy in India?",
       "options": [
-        "Consumer Price Index (CPI)",
-        "Wholesale Price Index (WPI)",
-        "Gross Domestic Product (GDP)",
-        "Bank Rate"
+        "Control inflation",
+        "Reduce unemployment",
+        "Increase foreign investment",
+        "Boost exports"
       ],
       "answer_index": 0,
-      "explanation": "The Consumer Price Index (CPI) is the primary measure used to calculate inflation in India. It reflects the changes in the price level of a basket of consumer goods and services purchased by households, making it a vital indicator of the cost of living.",
+      "explanation": "The primary objective of monetary policy in India, as defined by the Reserve Bank of India, is to control inflation. This is crucial to maintaining price stability, which in turn helps foster economic growth.",
       "id": "2026-06-07-10"
     },
     {
       "category": "Economy",
       "difficulty": "medium",
-      "topic": "Monetary Policy",
-      "question": "Which of the following tools is primarily used by the Reserve Bank of India (RBI) to control liquidity in the economy?",
+      "topic": "Fiscal Policy",
+      "question": "Which of the following is a key feature of the Goods and Services Tax (GST) implemented in India?",
       "options": [
-        "Cash Reserve Ratio (CRR)",
-        "Fiscal Deficit",
-        "Public Debt",
-        "Tax Revenue"
+        "It is a direct tax",
+        "It is a single tax on the supply of goods and services",
+        "It is levied only at the state level",
+        "It allows for exemption of essential goods"
       ],
-      "answer_index": 0,
-      "explanation": "The Cash Reserve Ratio (CRR) is a monetary policy tool used by the RBI to control liquidity. By adjusting the CRR, the RBI can influence the amount of funds that banks can lend, thereby managing liquidity in the economy.",
+      "answer_index": 1,
+      "explanation": "The Goods and Services Tax (GST) in India is a single tax that applies to the supply of goods and services, unifying multiple indirect taxes into a single framework. This structure aims to simplify the tax system and enhance compliance.",
       "id": "2026-06-07-11"
     },
     {
       "category": "Economy",
       "difficulty": "hard",
       "topic": "International Trade",
-      "question": "Which of the following statements is true regarding the 'Balance of Payments' (BoP)?",
+      "question": "Which of the following agreements is primarily aimed at reducing trade barriers and promoting economic integration among member countries in South Asia?",
       "options": [
-        "It includes only current account transactions.",
-        "It is always in surplus.",
-        "It reflects a country's economic relations with the rest of the world.",
-        "It does not include capital account transactions."
+        "SAFTA",
+        "NAFTA",
+        "ASEAN Free Trade Area",
+        "CPTPP"
       ],
-      "answer_index": 2,
-      "explanation": "The Balance of Payments (BoP) reflects a country's economic relations with the rest of the world, encompassing both current account (trade of goods and services) and capital account transactions (financial flows). It provides a comprehensive overview of a nation's economic dealings internationally.",
+      "answer_index": 0,
+      "explanation": "SAFTA, or the South Asian Free Trade Area, is an agreement among the South Asian Association for Regional Cooperation (SAARC) member countries aimed at reducing trade barriers and fostering economic integration in the region. It facilitates better trade relations and economic growth among South Asian nations.",
       "id": "2026-06-07-12"
     },
     {
       "category": "Science & Tech",
       "difficulty": "easy",
       "topic": "Basic Biology",
-      "question": "What is the main function of mitochondria in eukaryotic cells?",
+      "question": "What is the primary function of ribosomes in a cell?",
       "options": [
-        "Energy production",
         "Protein synthesis",
+        "Energy production",
         "DNA replication",
         "Cell division"
       ],
       "answer_index": 0,
-      "explanation": "Mitochondria are known as the 'powerhouses of the cell' because they generate adenosine triphosphate (ATP), the energy currency of the cell, through the process of cellular respiration.",
+      "explanation": "Ribosomes are the cellular structures responsible for synthesizing proteins by translating messenger RNA (mRNA) into polypeptide chains. This process is essential for cellular function and growth.",
       "id": "2026-06-07-13"
     },
     {
       "category": "Science & Tech",
       "difficulty": "medium",
       "topic": "Environmental Science",
-      "question": "What is the primary purpose of the Kyoto Protocol?",
+      "question": "Which of the following is a greenhouse gas that is also a byproduct of combustion?",
       "options": [
-        "Promote renewable energy",
-        "Reduce greenhouse gas emissions",
-        "Increase biodiversity",
-        "Enhance agricultural productivity"
+        "Oxygen",
+        "Carbon dioxide",
+        "Nitrogen",
+        "Helium"
       ],
       "answer_index": 1,
-      "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions and combating global warming. It commits its parties to reduce emissions based on the premise that global warming exists and human-made CO2 emissions have caused it.",
+      "explanation": "Carbon dioxide (CO2) is a major greenhouse gas that results from the combustion of fossil fuels and biomass. It contributes to the greenhouse effect, which leads to global warming and climate change.",
       "id": "2026-06-07-14"
     },
     {
       "category": "Science & Tech",
       "difficulty": "hard",
       "topic": "Artificial Intelligence",
-      "question": "Which of the following algorithms is primarily used for solving optimization problems in machine learning?",
+      "question": "Which of the following algorithms is used in the context of reinforcement learning to optimize the decision-making process?",
       "options": [
-        "Decision Trees",
-        "Genetic Algorithms",
-        "Support Vector Machines",
-        "K-Means Clustering"
+        "K-means clustering",
+        "Deep Q-Networks",
+        "Linear regression",
+        "Support vector machines"
       ],
       "answer_index": 1,
-      "explanation": "Genetic Algorithms are optimization algorithms inspired by the process of natural selection. They are used to find approximate solutions to complex problems by evolving a population of candidate solutions over generations.",
+      "explanation": "Deep Q-Networks (DQN) are a type of reinforcement learning algorithm that combines Q-learning with deep neural networks to optimize decision-making in environments with large state spaces. They are particularly effective in scenarios like game playing and robotics.",
       "id": "2026-06-07-15"
     },
     {
       "category": "Environment",
       "difficulty": "easy",
-      "topic": "Biodiversity",
-      "question": "Which of the following is the largest terrestrial biome on Earth?",
+      "topic": "Ecosystems",
+      "question": "Which of the following is considered a renewable resource?",
       "options": [
-        "Taiga",
-        "Desert",
-        "Tropical Rainforest",
-        "Temperate Forest"
+        "Solar energy",
+        "Coal",
+        "Natural gas",
+        "Nuclear energy"
       ],
       "answer_index": 0,
-      "explanation": "The taiga, also known as boreal forest, is the largest terrestrial biome, characterized by coniferous forests and covering large areas of the northern hemisphere. Its vast expanse extends across Canada, Alaska, Russia, and parts of Northern Europe.",
+      "explanation": "Solar energy is considered a renewable resource because it is abundant and can be harnessed repeatedly without depleting its source. In contrast, coal, natural gas, and nuclear energy are derived from finite resources that can be exhausted.",
       "id": "2026-06-07-16"
     },
     {
       "category": "Environment",
       "difficulty": "medium",
       "topic": "Climate Change",
-      "question": "Which of the following gases is primarily responsible for the greenhouse effect?",
+      "question": "Which of the following phenomena is primarily caused by the depletion of the ozone layer?",
       "options": [
-        "Ozone",
-        "Carbon Dioxide",
-        "Nitrogen",
-        "Argon"
+        "Global warming",
+        "Increased UV radiation",
+        "Ocean acidification",
+        "Desertification"
       ],
       "answer_index": 1,
-      "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas that contributes to the greenhouse effect by trapping heat in the Earth's atmosphere. Its increased concentration due to human activities, such as fossil fuel combustion, has a significant impact on global warming.",
+      "explanation": "The depletion of the ozone layer leads to increased ultraviolet (UV) radiation reaching the Earth's surface, which can cause health issues such as skin cancer and cataracts, as well as affecting ecosystems. Global warming is primarily due to greenhouse gases, while ocean acidification and desertification are caused by other environmental issues.",
       "id": "2026-06-07-17"
     },
     {
       "category": "Environment",
       "difficulty": "hard",
-      "topic": "Environmental Policy",
-      "question": "Which of the following is a key feature of the Convention on Biological Diversity (CBD)?",
+      "topic": "Biodiversity",
+      "question": "Which of the following ecosystems is most likely to be highly resilient to environmental changes?",
       "options": [
-        "Sustainable use of biological resources",
-        "Mandatory technology transfer",
-        "Universal emission targets",
-        "Financial penalties for non-compliance"
+        "Monoculture plantations",
+        "Coral reefs",
+        "Urban environments",
+        "Deserts"
       ],
-      "answer_index": 0,
-      "explanation": "The Convention on Biological Diversity (CBD) emphasizes the sustainable use of biological resources and the conservation of biodiversity. It aims to promote fair and equitable sharing of benefits arising from genetic resources, rather than imposing mandatory technology transfers or penalties.",
+      "answer_index": 1,
+      "explanation": "Coral reefs are known for their high biodiversity and complex interdependencies among species, which often make them more resilient to environmental changes compared to monoculture plantations, which lack diversity. Urban environments and deserts typically have lower biodiversity and are thus less resilient.",
       "id": "2026-06-07-18"
     },
     {
       "category": "Current Affairs",
       "difficulty": "easy",
-      "topic": "LPG Price Hike",
-      "question": "As of June 2026, what is the new price of a domestic LPG cylinder in Chennai?",
+      "topic": "Environmental Initiatives",
+      "question": "What was the theme of World Environment Day observed by NLCIL in June 2026?",
       "options": [
-        "₹957.50",
-        "₹899.00",
-        "₹1025.00",
-        "₹845.00"
+        "Inspired by Nature. For Climate. For Our Future",
+        "Clean Water for a Healthy World",
+        "Biodiversity: Time for Nature",
+        "Forests: Nature at Your Service"
       ],
       "answer_index": 0,
-      "explanation": "The domestic LPG cylinder price in Chennai has recently increased to ₹957.50, reflecting a rise of ₹89 over three months. This significant hike has raised concerns among consumers regarding fuel affordability.",
+      "explanation": "The theme 'Inspired by Nature. For Climate. For Our Future' emphasizes the importance of nature in combating climate change, aligning with the global efforts to create awareness around environmental issues.",
       "id": "2026-06-07-19"
     },
     {
       "category": "Current Affairs",
       "difficulty": "medium",
-      "topic": "Rajasthan Construction Survey",
-      "question": "What is the primary objective of the recent survey launched in Rajasthan concerning border areas?",
+      "topic": "Geopolitical Tensions",
+      "question": "What recent action was taken by the U.S. military in response to tensions in the Gulf region as of June 2026?",
       "options": [
-        "To assess tourist facilities",
-        "To scrutinize unauthorized constructions",
-        "To evaluate agricultural productivity",
-        "To promote local artisans"
+        "Destruction of Iranian drones targeting Hormuz shipping",
+        "Deployment of additional troops in Iraq",
+        "Naval blockade of Iranian oil exports",
+        "Airstrikes on military installations in Syria"
       ],
-      "answer_index": 1,
-      "explanation": "The survey in Rajasthan aims to scrutinize unauthorized constructions within 15 kilometers of the international border. This initiative follows directions from the Union Home Minister during a security review, emphasizing the importance of regulated development in sensitive areas.",
+      "answer_index": 0,
+      "explanation": "The U.S. military recently reported that it destroyed Iranian drones that were targeting shipping lanes in the Hormuz Strait, highlighting the ongoing tensions and security concerns in the region.",
       "id": "2026-06-07-20"
     },
     {
       "category": "Current Affairs",
       "difficulty": "hard",
-      "topic": "West Asia Conflict",
-      "question": "In the context of the rising tensions in West Asia, which recent action was taken by the U.S. military?",
+      "topic": "International Relations",
+      "question": "What was the significant development involving Russia and Ukraine reported in June 2026?",
       "options": [
-        "Sent troops to Israel",
-        "Intercepted Iranian drones",
-        "Established a no-fly zone over Iraq",
-        "Supported peace talks in Tehran"
+        "A peace treaty was signed to end hostilities",
+        "A Russian drone struck a nuclear-fuel storage facility near Chornobyl",
+        "Ukraine received military aid from NATO",
+        "Russia announced withdrawal of troops from the Ukrainian border"
       ],
       "answer_index": 1,
-      "explanation": "The U.S. military recently destroyed two Iranian drones that were targeting shipping in the Strait of Hormuz, indicating active involvement in addressing threats to maritime security amidst escalating tensions in the region. This action underscores the complexities of U.S. military engagements in the context of Iranian activities.",
+      "explanation": "In June 2026, it was reported that a Russian drone hit a nuclear-fuel storage facility near Chornobyl. This incident underscores the ongoing conflict and the risks associated with military actions near sensitive sites.",
       "id": "2026-06-07-21"
     },
     {
       "category": "International Relations",
       "difficulty": "easy",
       "topic": "Middle East Tensions",
-      "question": "Which country recently reported that its army intercepted projectiles fired from Lebanon amid rising tensions in West Asia?",
+      "question": "Which country recently engaged in diplomatic talks with Pakistan to promote peace amid escalating tensions in West Asia?",
       "options": [
-        "Israel",
         "Iran",
-        "Lebanon",
-        "Syria"
+        "Saudi Arabia",
+        "Turkey",
+        "Israel"
       ],
       "answer_index": 0,
-      "explanation": "Israel has been actively involved in recent military engagements in the region, and its army confirmed the interception of projectiles originating from Lebanon, highlighting the ongoing tensions between these nations.",
+      "explanation": "Iran is actively engaging in diplomatic discussions with Pakistan to mitigate tensions in the region, particularly in light of the increasing conflicts involving its neighboring countries.",
       "id": "2026-06-07-22"
     },
     {
       "category": "International Relations",
       "difficulty": "medium",
-      "topic": "Geopolitical Developments",
-      "question": "What significant event occurred involving Iranian drones targeting shipping in the Strait of Hormuz as reported by the U.S. in June 2026?",
+      "topic": "Nuclear Security",
+      "question": "What recent event in Ukraine raised concerns over nuclear safety following military actions near the Chornobyl site?",
       "options": [
-        "Destruction of Iranian naval base",
-        "Destruction of two Iranian drones",
-        "Signing of a peace treaty",
-        "Deployment of additional U.S. troops"
+        "A new nuclear plant inauguration",
+        "Russian drones attacking a storage facility",
+        "U.S. military exercises in Eastern Europe",
+        "International inspections of nuclear sites"
       ],
       "answer_index": 1,
-      "explanation": "The U.S. military reported that it destroyed two Iranian drones that were targeting shipping in the strategic Strait of Hormuz, indicating heightened military activity and ongoing tensions in the region.",
+      "explanation": "The recent military action involving Russian drones targeting a nuclear-fuel storage facility near Chornobyl heightened international concerns regarding nuclear safety and security in the region.",
       "id": "2026-06-07-23"
     },
     {
       "category": "International Relations",
       "difficulty": "hard",
-      "topic": "Ukraine Conflict",
-      "question": "In June 2026, which incident involving Russian military action did Ukraine report regarding the Chornobyl nuclear site?",
+      "topic": "Maritime Security",
+      "question": "In June 2026, which two countries were involved in a significant incident where U.S. forces destroyed drones targeting shipping in the Strait of Hormuz?",
       "options": [
-        "Full-scale attack on nuclear facilities",
-        "Drone strike on nuclear-fuel storage",
-        "Cyber-attack on nuclear control systems",
-        "Infiltration by special forces"
+        "U.S. and Iran",
+        "U.S. and Saudi Arabia",
+        "Iran and Israel",
+        "Iran and Pakistan"
       ],
-      "answer_index": 1,
-      "explanation": "Ukraine reported that a Russian drone struck a nuclear-fuel storage facility near Chornobyl, causing damage but no significant risk as there was no spent fuel stored at that time, illustrating the continuing threat of military actions near sensitive sites.",
+      "answer_index": 0,
+      "explanation": "The U.S. military reported destroying Iranian drones that were targeting shipping in the strategically vital Strait of Hormuz, a key maritime chokepoint for global oil shipments, underscoring the ongoing tensions between the U.S. and Iran.",
       "id": "2026-06-07-24"
     },
     {
       "category": "Art & Culture",
       "difficulty": "easy",
       "topic": "Folk Art",
-      "question": "Which of the following is a famous form of folk painting originating from the state of Madhya Pradesh, characterized by its vibrant colors and depiction of nature and tribal life?",
+      "question": "Which of the following is a traditional Indian dance form that originated in the state of Odisha, known for its graceful movements and storytelling?",
       "options": [
-        "Warli",
-        "Madhubani",
-        "Pattachitra",
-        "Kalamkari"
+        "Odissi",
+        "Kathak",
+        "Bharatanatyam",
+        "Kuchipudi"
       ],
       "answer_index": 0,
-      "explanation": "Warli painting is a traditional folk art from the Warli tribe of Maharashtra, but it has gained popularity in Madhya Pradesh as well. It is known for its simple geometric shapes and earthy colors that depict daily life and nature.",
+      "explanation": "Odissi is a classical dance form from Odisha, recognized for its fluid movements and expressive storytelling through dance. It is one of the oldest surviving dance forms in India, with roots in the temples of Odisha.",
       "id": "2026-06-07-25"
     },
     {
       "category": "Art & Culture",
       "difficulty": "medium",
-      "topic": "Classical Music",
-      "question": "Which of the following is a prominent form of classical music that originated in South India and is known for its complex rhythms and melodic structures?",
+      "topic": "Architecture",
+      "question": "The Brihadeeswarar Temple, a UNESCO World Heritage Site, is an exemplary example of which architectural style?",
       "options": [
-        "Hindustani",
-        "Carnatic",
-        "Fusion",
-        "Ghazal"
+        "Hoysala",
+        "Chola",
+        "Mughal",
+        "Dravidian"
       ],
       "answer_index": 1,
-      "explanation": "Carnatic music is a major form of classical music originating from South India, characterized by its intricate melodies and rhythms. It is distinct from Hindustani music, which is more prevalent in North India.",
+      "explanation": "The Brihadeeswarar Temple, located in Thanjavur, is a hallmark of Chola architecture, showcasing the grandeur and intricacy of Dravidian architectural styles. It was built by Raja Raja Chola I and exemplifies the height of Chola architectural achievement.",
       "id": "2026-06-07-26"
     },
     {
       "category": "Art & Culture",
       "difficulty": "hard",
-      "topic": "Cultural Heritage",
-      "question": "The 'Chola bronzes' are a significant aspect of Indian heritage, renowned for their artistry in which of the following contexts?",
+      "topic": "Literature",
+      "question": "Which of the following works is attributed to the 14th-century poet Amir Khusrau, who is often regarded as the 'father of Urdu literature'?",
       "options": [
-        "Temple architecture",
-        "Classical dance",
-        "Metal casting",
-        "Religious manuscripts"
+        "Ghazals of Ghalib",
+        "Diwan-e-Hafez",
+        "Qissa Chahar Darvesh",
+        "Nuh Sipihr"
       ],
-      "answer_index": 2,
-      "explanation": "Chola bronzes refer to exquisite sculptures created during the Chola dynasty, primarily known for their advanced techniques in metal casting. These bronzes, especially of deities, showcase intricate details and are revered in the context of temple art and iconography.",
+      "answer_index": 3,
+      "explanation": "Nuh Sipihr, a work by Amir Khusrau, is a significant contribution to Urdu literature. Khusrau's writings reflect a blend of Persian, Arabic, and local Indian influences, and he is celebrated for his poetry and his role in the evolution of the Urdu language.",
       "id": "2026-06-07-27"
     },
     {
       "category": "Govt Schemes",
       "difficulty": "easy",
-      "topic": "Housing",
-      "question": "What is the primary objective of the Pradhan Mantri Awas Yojana (PMAY)?",
+      "topic": "Financial Inclusion",
+      "question": "What is the main goal of the Pradhan Mantri Jan Dhan Yojana (PMJDY)?",
       "options": [
-        "Affordable housing for all",
-        "Skill development for youth",
-        "Financial support for farmers",
-        "Promotion of digital literacy"
+        "To promote financial inclusion",
+        "To provide free education",
+        "To improve rural infrastructure",
+        "To offer health insurance"
       ],
       "answer_index": 0,
-      "explanation": "The Pradhan Mantri Awas Yojana (PMAY) aims to provide affordable housing to the urban poor and ensure that every citizen has access to a home by 2022. The initiative reflects the government's commitment to housing for all.",
+      "explanation": "The Pradhan Mantri Jan Dhan Yojana (PMJDY) aims to promote financial inclusion by ensuring access to banking services, savings accounts, and credit for the unbanked population of India. It is designed to bring low-income individuals into the formal banking system.",
       "id": "2026-06-07-28"
     },
     {
       "category": "Govt Schemes",
       "difficulty": "medium",
-      "topic": "Health",
-      "question": "Which of the following schemes is primarily aimed at providing health insurance coverage to vulnerable sections of society in India?",
+      "topic": "Employment Generation",
+      "question": "Which of the following schemes is specifically targeted at providing employment to rural households in India?",
       "options": [
-        "Ayushman Bharat",
-        "Pradhan Mantri Fasal Bima Yojana",
-        "Mahatma Gandhi National Rural Employment Guarantee Act",
-        "Integrated Child Development Services"
+        "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+        "Skill India Mission",
+        "National Rural Livelihoods Mission (NRLM)",
+        "Pradhan Mantri Gram Sadak Yojana (PMGSY)"
       ],
       "answer_index": 0,
-      "explanation": "Ayushman Bharat is a flagship health insurance scheme that provides coverage to economically disadvantaged individuals, ensuring access to quality healthcare services. It is one of the largest government-funded healthcare schemes in the world.",
+      "explanation": "The Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) is a landmark legislation that provides at least 100 days of guaranteed wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work. It aims to enhance livelihood security in rural areas.",
       "id": "2026-06-07-29"
     },
     {
       "category": "Govt Schemes",
       "difficulty": "hard",
-      "topic": "Employment",
-      "question": "Which of the following statements is true regarding the Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
+      "topic": "Agricultural Schemes",
+      "question": "What is the primary purpose of the Pradhan Mantri Fasal Bima Yojana (PMFBY)?",
       "options": [
-        "It focuses on providing loans to small businesses.",
-        "It aims to enhance the employability of youth through skill training.",
-        "It is specifically designed for women entrepreneurs.",
-        "It provides direct cash transfers to unemployed youth."
+        "To provide interest subsidies on loans",
+        "To ensure comprehensive crop insurance coverage",
+        "To promote organic farming",
+        "To enhance irrigation facilities"
       ],
       "answer_index": 1,
-      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a skill development initiative aimed at enhancing the employability of the youth by providing them with industry-relevant skill training. The scheme emphasizes empowering young individuals through skill acquisition.",
+      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) is designed to provide comprehensive crop insurance coverage to farmers against crop loss due to various risks like natural calamities, pests, and diseases. This scheme aims to stabilize the income of farmers and encourage them to adopt modern agricultural practices.",
       "id": "2026-06-07-30"
     }
   ]
