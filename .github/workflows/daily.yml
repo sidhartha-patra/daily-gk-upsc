@@ -45,3 +45,15 @@ jobs:
             git commit -m "data: daily quiz $(date -u +%Y-%m-%d)"
             git push
           fi
+
+      - name: Send daily email digest
+        continue-on-error: true   # never fail the run just because email has an issue
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+          SITE_URL: https://sidhartha-patra.github.io/daily-gk-upsc/
+        run: python scripts/send_email.py

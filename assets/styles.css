@@ -113,6 +113,23 @@ body {
 .chip:hover { color: var(--text); }
 .chip.active { background: var(--primary); border-color: var(--primary); color: #fff; }
 
+/* News panel */
+.news-panel {
+  background: var(--card); border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 4px 16px; margin-bottom: 16px; box-shadow: var(--shadow);
+}
+.news-panel summary {
+  cursor: pointer; padding: 10px 0; font-weight: 700; font-size: 14.5px; list-style: none;
+}
+.news-panel summary::-webkit-details-marker { display: none; }
+.news-panel summary::before { content: "▸ "; color: var(--primary); }
+.news-panel[open] summary::before { content: "▾ "; }
+.news-list { margin: 4px 0 12px; padding-left: 18px; display: flex; flex-direction: column; gap: 7px; }
+.news-list li { font-size: 13.5px; line-height: 1.45; }
+.news-list a { color: var(--text); text-decoration: none; border-bottom: 1px solid var(--border); }
+.news-list a:hover { color: var(--primary); border-color: var(--primary); }
+.news-src { color: var(--muted); font-size: 12px; font-weight: 700; }
+
 /* Quiz cards */
 .quiz-list { display: flex; flex-direction: column; gap: 14px; }
 .q-card {

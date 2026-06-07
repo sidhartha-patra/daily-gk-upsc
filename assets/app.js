@@ -201,7 +201,8 @@
       titleEl.textContent = "Today's Test";
       metaEl.textContent = "";
       list.innerHTML = "";
-      footer.hidden = true;
+        $("#newsPanel").innerHTML = "";
+        footer.hidden = true;
       statusEl.classList.remove("hidden");
       statusEl.innerHTML =
         "No quiz data found yet. If you just deployed, the first daily build may " +
@@ -219,6 +220,7 @@
     }
 
     renderFilter();
+    renderNews(quiz);
     renderProgress();
 
     const attempt = store.attempts[quiz.date];
@@ -329,6 +331,26 @@
     };
     wrap.appendChild(mk("All", null));
     CATEGORIES.forEach((c) => wrap.appendChild(mk(c, c)));
+  }
+
+  function renderNews(quiz) {
+    const wrap = $("#newsPanel");
+    const news = (quiz && quiz.news) || [];
+    if (!news.length) { wrap.innerHTML = ""; return; }
+    const items = news.slice(0, 12).map((n) => {
+      const when = n.published
+        ? new Date(n.published).toLocaleDateString(undefined, { month: "short", day: "numeric" })
+        : "";
+      const safe = /^https?:\/\//i.test(n.link || "") ? n.link : null;
+      const title = safe
+        ? `<a href="${esc(safe)}" target="_blank" rel="noopener noreferrer">${esc(n.title)}</a>`
+        : esc(n.title);
+      return `<li><span class="news-src">${esc(n.source)}${when ? " · " + when : ""}</span> ${title}</li>`;
+    }).join("");
+    wrap.innerHTML =
+      `<details class="news-panel"><summary>📰 Today in the news ` +
+      `<span class="muted">— ${news.length} stories grounding the Current Affairs questions</span></summary>` +
+      `<ul class="news-list">${items}</ul></details>`;
   }
 
   // ---------------------------------------------------------------- render: dashboard

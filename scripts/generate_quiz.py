@@ -30,6 +30,12 @@ from pathlib import Path
 
 logger = logging.getLogger("generate_quiz")
 
+try:  # fetch_news lives alongside this script; network use is lazy and optional.
+    from fetch_news import fetch_headlines, headlines_as_context
+except Exception:  # noqa: BLE001
+    fetch_headlines = None  # type: ignore[assignment]
+    headlines_as_context = None  # type: ignore[assignment]
+
 IST = timezone(timedelta(hours=5, minutes=30))
 REPO_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = REPO_ROOT / "data"
@@ -150,7 +156,7 @@ def _gh_token() -> str | None:
 # --------------------------------------------------------------------------- #
 # Prompt + validation
 # --------------------------------------------------------------------------- #
-def _build_prompt(category: str, count: int, date_str: str, avoid: list[str]) -> str:
+def _build_prompt(category: str, count: int, date_str: str, avoid: list[str], news_context: str = "") -> str:
     avoid_block = ""
     if avoid:
         sample = "\n".join(f"- {q}" for q in avoid[:25])
@@ -162,14 +168,22 @@ def _build_prompt(category: str, count: int, date_str: str, avoid: list[str]) ->
     if category == "Current Affairs" or category == "International Relations":
         extra = (
             " Prioritise developments and world affairs that are durable and "
-            f"important as of {date_str} (recent months). Avoid questions that "
-            "depend on a single day's news headline."
+            f"important as of {date_str} (recent weeks). Avoid questions that "
+            "depend on a single day's fleeting headline."
+        )
+    news_block = ""
+    if news_context and category in ("Current Affairs", "International Relations"):
+        news_block = (
+            "\nGround the questions in these REAL, recent news developments. Ignore "
+            "trivial, sports or purely local items; focus on the nationally and "
+            "internationally significant ones (policy, economy, governance, "
+            f"diplomacy, science):\n{news_context}\n"
         )
     return (
         f"Generate exactly {count} fresh, unique UPSC-Prelims-standard "
         f"multiple-choice questions for the category: \"{category}\".{extra}\n"
         f"Today's date is {date_str}. Vary the difficulty across easy, medium and hard.\n"
-        f"{avoid_block}\n"
+        f"{avoid_block}{news_block}\n"
         "Respond with STRICT JSON only, shaped exactly like this:\n"
         "{\n"
         '  "questions": [\n'
@@ -315,10 +329,11 @@ def _generate_category(
     model: str,
     token: str | None,
     use_llm: bool,
+    news_context: str = "",
 ) -> list[dict]:
     questions: list[dict] = []
     if use_llm:
-        prompt = _build_prompt(category, count, date_str, recent)
+        prompt = _build_prompt(category, count, date_str, recent, news_context)
         raw = None
         try:
             if token:
@@ -360,7 +375,7 @@ def _generate_category(
 # --------------------------------------------------------------------------- #
 # Output writers
 # --------------------------------------------------------------------------- #
-def _write_outputs(date_str: str, generator: str, questions: list[dict]) -> Path:
+def _write_outputs(date_str: str, generator: str, questions: list[dict], news: list[dict] | None = None) -> Path:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     for i, q in enumerate(questions, start=1):
         q["id"] = f"{date_str}-{i:02d}"
@@ -376,6 +391,7 @@ def _write_outputs(date_str: str, generator: str, questions: list[dict]) -> Path
         "categories": CATEGORIES,
         "category_counts": category_counts,
         "count": len(questions),
+        "news": news or [],
         "questions": questions,
     }
 
@@ -410,7 +426,7 @@ def _write_outputs(date_str: str, generator: str, questions: list[dict]) -> Path
 # --------------------------------------------------------------------------- #
 # Entry point
 # --------------------------------------------------------------------------- #
-def generate(date_str: str, per_category: int, model: str, use_llm: bool) -> Path:
+def generate(date_str: str, per_category: int, model: str, use_llm: bool, use_news: bool = True) -> Path:
     seed_base = int(date_str.replace("-", ""))
     recent_map = _recent_questions()
     used: set[str] = set()
@@ -420,6 +436,16 @@ def generate(date_str: str, per_category: int, model: str, use_llm: bool) -> Pat
     token = _gh_token() if use_llm else None
     if use_llm and not token:
         logger.info("No GitHub token found; will use gh CLI or fallback bank.")
+
+    news_headlines: list[dict] = []
+    news_context = ""
+    if use_news and use_llm and fetch_headlines is not None:
+        try:
+            news_headlines = fetch_headlines()
+            news_context = headlines_as_context(news_headlines) if news_headlines else ""
+            logger.info("news: grounding current affairs with %d headlines", len(news_headlines))
+        except Exception as exc:  # noqa: BLE001
+            logger.warning("news: fetch failed, continuing without grounding: %s", exc)
 
     all_questions: list[dict] = []
     llm_used = False
@@ -436,6 +462,7 @@ def generate(date_str: str, per_category: int, model: str, use_llm: bool) -> Pat
             model=model,
             token=token,
             use_llm=use_llm,
+            news_context=news_context,
         )
         # Heuristic: if we added brand-new (not bank-duplicate) keys, LLM likely worked.
         if use_llm and len(used) > before:
@@ -443,8 +470,17 @@ def generate(date_str: str, per_category: int, model: str, use_llm: bool) -> Pat
         all_questions.extend(qs)
         logger.info("[%s] %d question(s) ready", category, len(qs))
 
+    news_out = [
+        {
+            "title": h["title"],
+            "source": h["source"],
+            "link": h.get("link", ""),
+            "published": h["published"].isoformat() if h.get("published") else None,
+        }
+        for h in news_headlines
+    ]
     generator = f"github-models:{model}" if (use_llm and llm_used) else "fallback-bank"
-    path = _write_outputs(date_str, generator, all_questions)
+    path = _write_outputs(date_str, generator, all_questions, news_out)
     logger.info("Wrote %d questions -> %s (generator=%s)", len(all_questions), path, generator)
     return path
 
@@ -456,6 +492,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--per-category", type=int, default=3)
     parser.add_argument("--model", default=os.environ.get("LLM_MODEL", DEFAULT_MODEL))
     parser.add_argument("--no-llm", action="store_true", help="Use the fallback bank only.")
+    parser.add_argument("--no-news", action="store_true", help="Skip live news grounding.")
     args = parser.parse_args(argv)
 
     if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", args.date):
@@ -466,6 +503,7 @@ def main(argv: list[str] | None = None) -> int:
         per_category=args.per_category,
         model=args.model,
         use_llm=not args.no_llm,
+        use_news=not args.no_news,
     )
     return 0
 

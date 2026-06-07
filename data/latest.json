@@ -1,6 +1,6 @@
 {
   "date": "2026-06-07",
-  "generated_at": "2026-06-07T14:20:13.080959+05:30",
+  "generated_at": "2026-06-07T14:35:36.574560+05:30",
   "generator": "github-models:openai/gpt-4o-mini",
   "categories": [
     "Polity",
@@ -27,455 +27,601 @@
     "Govt Schemes": 3
   },
   "count": 30,
+  "news": [
+    {
+      "title": "IND vs AFG Live Score, One-Off Test Match Day 2: India 564/8 declared vs Afghanistan in Mullanpur - The Indian Express",
+      "source": "Google News India",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNNlN1SXc5b0NFck03QkF5UGJwQVp2WVJSSjFPR2w5TEsyU2k3SFk1Y3JnZzJtSGdhWVZEazN5bE1QVDBENEFSUkU2cERldE5VenB4U3laSG1zVEREZE1vaUNKZFVlUE9MVTFKU2FGUHU4RVYxM0tseDZZVmk5d3JUeXNwVmtyaEk2UlFwb1hHdGp3RUtWYXV6S3J4VzBjTzBKcnVEXzdiWExVY1haakNhR1d1RUVfTGk2RG5ITEV5Ymkwa3Uyb1ZSNVc2UUhoNmg4NGpIUTJhMm53TTFnMjRjSG10NXhrd1pnZUswQzJoS2lBZW00M3lQNHBoeS1hcjNhVlFqVmhn?oc=5",
+      "published": "2026-06-07T09:00:00+00:00"
+    },
+    {
+      "title": "Andhra University to re-conduct B.Sc. Chemistry examination on June 9",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-university-to-re-conduct-bsc-chemistry-examination-on-june-9/article71072508.ece",
+      "published": "2026-06-07T14:22:48+05:30"
+    },
+    {
+      "title": "Security beefed up at CJP founder Dipke's home in Chhatrapati Sambhajinagar",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/mumbai/security-beefed-up-at-cjp-founder-dipkes-home-in-chhatrapati-sambhajinagar/article71072587.ece",
+      "published": "2026-06-07T14:21:11+05:30"
+    },
+    {
+      "title": "NLCIL observes World Environment Day",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/nlcil-observes-world-environment-day/article71072438.ece",
+      "published": "2026-06-07T14:20:27+05:30"
+    },
+    {
+      "title": "West Asia war LIVE: Israel Army says intercepted two projectiles fired from Lebanon",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
+      "published": "2026-06-07T14:20:16+05:30"
+    },
+    {
+      "title": "Russian drone hit nuclear-fuel storage facility near Chornobyl, says Ukraine",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-says-ukraine/article71072662.ece",
+      "published": "2026-06-07T14:17:34+05:30"
+    },
+    {
+      "title": "Coast Guard launches search for missing fishermen off Cuddalore",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/coast-guard-launches-search-for-missing-fishermen-off-cuddalore/article71072573.ece",
+      "published": "2026-06-07T14:15:47+05:30"
+    },
+    {
+      "title": "Contempt plea moved against former Chennai Corporation Commissioner Kumaragurubaran",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/contempt-plea-moved-against-former-chennai-corporation-commissioner-kumaragurubaran/article71072528.ece",
+      "published": "2026-06-07T14:11:28+05:30"
+    },
+    {
+      "title": "Elderly woman injured while trying to protect dog from leopard attack",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/elderly-woman-injured-while-trying-to-protect-dog-from-leopard-attack/article71072611.ece",
+      "published": "2026-06-07T14:07:33+05:30"
+    },
+    {
+      "title": "Telangana schools to reopen on June 15, not 12, clarifies School Education Department",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-schools-to-reopen-on-june-15-not-12-clarifies-school-education-department/article71072586.ece",
+      "published": "2026-06-07T14:05:10+05:30"
+    },
+    {
+      "title": "Survey in Rajasthan to scrutinise unauthorised constructions, funding in border areas",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/survey-in-rajasthan-to-scrutinise-unauthorised-constructions-funding-in-border-areas/article71072551.ece",
+      "published": "2026-06-07T14:04:48+05:30"
+    },
+    {
+      "title": "Despite last-minute preparations, visitor numbers during summer festival season increased 28% in 2026",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Coimbatore/despite-last-minute-preparations-visitor-numbers-during-summer-festival-season-increased-28-in-2026/article71072594.ece",
+      "published": "2026-06-07T14:04:47+05:30"
+    },
+    {
+      "title": "Trinamool's minority cell secretary Ajmal Siddiqui resigns, blames Abhishek Banerjee for party ‘collapse’",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/west-bengal/trinamools-minority-cell-secretary-ajmal-siddiqui-resigns-blames-abhishek-banerjee-for-party-collapse/article71072635.ece",
+      "published": "2026-06-07T14:04:38+05:30"
+    },
+    {
+      "title": "T.N. government’s decision to shelve smart meters project a grave mistake: BJP",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-governments-decision-to-shelve-smart-meters-project-a-grave-mistake-bjp/article71072577.ece",
+      "published": "2026-06-07T13:56:13+05:30"
+    },
+    {
+      "title": "LPG domestic cylinder now costs ₹957.50 in Chennai, consumers express shock",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/chennai/lpg-domestic-cylinder-now-costs-95750-in-chennai-consumers-express-shock/article71072196.ece",
+      "published": "2026-06-07T13:33:32+05:30"
+    },
+    {
+      "title": "Why aren’t BJP leaders taking to streets with cylinders in protest now: Congress’ dig on LPG price hike",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/congress-reaction-on-142-kg-cylinder-price-hike-on-june-7-2026/article71072596.ece",
+      "published": "2026-06-07T13:31:35+05:30"
+    },
+    {
+      "title": "Tamil Nadu Governor leads plantation drive, lays foundation stone for PLAZA in Auroville",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-governor-leads-plantation-drive-lays-foundation-stone-for-plaza-in-auroville/article71072416.ece",
+      "published": "2026-06-07T13:31:04+05:30"
+    },
+    {
+      "title": "Chief Minister travels by Metro to avoid Zero-Traffic arrangements in Bengaluru",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/bangalore/chief-minister-travels-by-metro-to-avoid-zero-traffic-arrangements-in-bengaluru/article71072474.ece",
+      "published": "2026-06-07T13:26:33+05:30"
+    },
+    {
+      "title": "Congress aims for organisation overhaul, agitations from June 18 to corner BJP Govt in Goa",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/goa/congress-aims-for-organisation-overhaul-agitations-from-june-18-to-corner-bjp-govt-in-goa/article71072493.ece",
+      "published": "2026-06-07T13:22:42+05:30"
+    },
+    {
+      "title": "Collector launches Yogandhra 2026 program",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/collector-launches-yogandhra-2026-program/article71072526.ece",
+      "published": "2026-06-07T13:18:00+05:30"
+    },
+    {
+      "title": "India's energy demand boom to reshape global markets, says Rosneft chief",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/business/Economy/indias-energy-demand-boom-to-reshape-global-markets-says-rosneft-chief/article71072405.ece",
+      "published": "2026-06-07T13:15:23+05:30"
+    },
+    {
+      "title": "IDFC First Bank-AU Finance Bank fraud case: CBI conducts searches at six locations",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/idfc-first-bank-au-finance-bank-fraud-case-cbi-conducts-searches-at-six-locations/article71072251.ece",
+      "published": "2026-06-07T13:14:41+05:30"
+    },
+    {
+      "title": "Our agitation will continue until Union Minister Pradhan resigns: Cockroach Janta Party founder Dipke",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/our-agitation-will-continue-until-union-minister-pradhan-resigns-cockroach-janta-party-founder-dipke/article71072533.ece",
+      "published": "2026-06-07T13:11:59+05:30"
+    },
+    {
+      "title": "U.S. says shot down Iran drones in fresh escalation",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/us-says-shot-down-iran-drones-in-fresh-escalation/article71072392.ece",
+      "published": "2026-06-07T13:11:04+05:30"
+    }
+  ],
   "questions": [
     {
       "category": "Polity",
       "difficulty": "easy",
-      "topic": "Fundamental Duties",
-      "question": "Which of the following is a Fundamental Duty of citizens as per the Constitution of India?",
+      "topic": "Fundamental Rights",
+      "question": "Which of the following is a right guaranteed under the Right to Equality in the Constitution of India?",
       "options": [
-        "To promote harmony and the spirit of common brotherhood",
-        "To vote in elections",
-        "To pay taxes",
-        "To serve in the armed forces"
+        "Equality before law",
+        "Right to property",
+        "Freedom of speech",
+        "Right to education"
       ],
       "answer_index": 0,
-      "explanation": "The Constitution of India enshrines a set of Fundamental Duties under Article 51A. One of these duties is to promote harmony and the spirit of common brotherhood among all the people of India, which reflects the essence of unity in diversity.",
+      "explanation": "The Right to Equality, as per Articles 14 to 18 of the Indian Constitution, guarantees equality before the law and equal protection of the laws to all individuals. This ensures that every individual is treated equally and without discrimination.",
       "id": "2026-06-07-01"
     },
     {
       "category": "Polity",
       "difficulty": "medium",
-      "topic": "Constitutional Provisions",
-      "question": "Which of the following Articles empowers the President of India to appoint the Prime Minister?",
+      "topic": "Parliamentary System",
+      "question": "Which of the following statements correctly describes the concept of 'Collective Responsibility' in the Indian parliamentary system?",
       "options": [
-        "Article 74",
-        "Article 75",
-        "Article 76",
-        "Article 77"
+        "The Prime Minister can be removed by the President alone.",
+        "All ministers are collectively responsible to the President.",
+        "The Council of Ministers is collectively responsible to the Lok Sabha.",
+        "The Prime Minister is solely responsible for all government decisions."
       ],
-      "answer_index": 1,
-      "explanation": "Article 75 of the Indian Constitution provides that the President shall appoint the Prime Minister and the Prime Minister shall be appointed from among the members of the Lok Sabha. This establishes the executive leadership in the parliamentary system.",
+      "answer_index": 2,
+      "explanation": "The principle of 'Collective Responsibility' means that the Council of Ministers holds collective responsibility to the Lok Sabha. This implies that if the Lok Sabha passes a no-confidence motion against the Council, all ministers, including the Prime Minister, must resign.",
       "id": "2026-06-07-02"
     },
     {
       "category": "Polity",
       "difficulty": "hard",
-      "topic": "Constitutional Amendments",
-      "question": "Which Constitutional Amendment Act introduced the 'Goods and Services Tax' (GST) in India?",
+      "topic": "Amendments",
+      "question": "Which of the following Constitutional Amendments reduced the age of voting from 21 years to 18 years in India?",
       "options": [
-        "101st Amendment",
-        "102nd Amendment",
-        "103rd Amendment",
-        "104th Amendment"
+        "61st Amendment",
+        "73rd Amendment",
+        "86th Amendment",
+        "42nd Amendment"
       ],
       "answer_index": 0,
-      "explanation": "The 101st Constitutional Amendment Act, enacted in 2016, introduced the Goods and Services Tax (GST) in India. This amendment aimed to create a unified tax structure and simplify the indirect tax regime across the country, enhancing ease of doing business.",
+      "explanation": "The 61st Amendment to the Constitution of India, enacted in 1988, specifically lowered the voting age from 21 years to 18 years for elections to the Lok Sabha and state assemblies, thereby enhancing electoral participation among the youth.",
       "id": "2026-06-07-03"
     },
     {
       "category": "History",
       "difficulty": "easy",
       "topic": "Ancient India",
-      "question": "Which of the following was the capital of the Maurya Empire under Chandragupta Maurya?",
+      "question": "Which of the following texts is considered the earliest surviving work of Indian literature?",
       "options": [
-        "Pataliputra",
-        "Taxila",
-        "Ujjain",
-        "Varanasi"
+        "Rigveda",
+        "Mahabharata",
+        "Ramayana",
+        "Puranas"
       ],
       "answer_index": 0,
-      "explanation": "Pataliputra, located near modern-day Patna, was the capital of the Maurya Empire during the reign of Chandragupta Maurya. It served as a significant political and cultural center in ancient India.",
+      "explanation": "The Rigveda is the oldest of the four Vedas and is considered the earliest surviving work of Indian literature. Composed in early Sanskrit, it consists of hymns and is foundational to the understanding of early Indian civilization.",
       "id": "2026-06-07-04"
     },
     {
       "category": "History",
       "difficulty": "medium",
       "topic": "Medieval India",
-      "question": "Which of the following battles marked the beginning of the decline of the Mughal Empire in India?",
+      "question": "Which of the following rulers founded the Mughal Empire in India?",
       "options": [
-        "Battle of Panipat",
-        "Battle of Plassey",
-        "Battle of Buxar",
-        "Battle of Haldighati"
+        "Akbar",
+        "Babur",
+        "Shah Jahan",
+        "Aurangzeb"
       ],
-      "answer_index": 2,
-      "explanation": "The Battle of Buxar in 1764 is often considered a significant event that marked the beginning of the decline of the Mughal Empire. It resulted in the British East India Company gaining control over Bengal and laying the foundation for British rule in India.",
+      "answer_index": 1,
+      "explanation": "Babur, a descendant of Timur, founded the Mughal Empire in India after his victory at the First Battle of Panipat in 1526. His establishment of a centralized empire marked the beginning of a significant period in Indian history.",
       "id": "2026-06-07-05"
     },
     {
       "category": "History",
       "difficulty": "hard",
-      "topic": "Indian Freedom Struggle",
-      "question": "Which of the following movements was initiated by Mahatma Gandhi in response to the Rowlatt Act of 1919?",
+      "topic": "Colonial India",
+      "question": "Which of the following acts introduced the system of dyarchy in provincial governance in British India?",
       "options": [
-        "Non-Cooperation Movement",
-        "Civil Disobedience Movement",
-        "Champaran Movement",
-        "Khilafat Movement"
+        "Government of India Act 1919",
+        "Government of India Act 1935",
+        "Indian Independence Act 1947",
+        "Montagu-Chelmsford Reforms"
       ],
-      "answer_index": 0,
-      "explanation": "The Non-Cooperation Movement was initiated by Mahatma Gandhi in 1920 as a response to the oppressive Rowlatt Act of 1919. It aimed to resist British rule through non-violent means, and it marked a significant escalation in the Indian independence struggle.",
+      "answer_index": 1,
+      "explanation": "The Government of India Act 1935 introduced dyarchy in the provinces, dividing responsibilities between elected Indian ministers and British officials. This was a significant constitutional reform aimed at increasing Indian participation in governance.",
       "id": "2026-06-07-06"
     },
     {
       "category": "Geography",
       "difficulty": "easy",
       "topic": "Physical Geography",
-      "question": "Which of the following is the largest desert in the world?",
+      "question": "Which of the following is the longest river in India?",
       "options": [
-        "Sahara Desert",
-        "Arabian Desert",
-        "Gobi Desert",
-        "Kalahari Desert"
+        "Ganges",
+        "Brahmaputra",
+        "Indus",
+        "Godavari"
       ],
       "answer_index": 0,
-      "explanation": "The Sahara Desert is the largest hot desert in the world, covering approximately 9.2 million square kilometers. It spans multiple countries in North Africa and is characterized by its vast stretches of sand dunes and rocky plateaus.",
+      "explanation": "The Ganges, known as 'Ganga' in India, is approximately 2,525 kilometers long, making it the longest river in India. It flows through the northern part of the country and is a crucial water source for millions.",
       "id": "2026-06-07-07"
     },
     {
       "category": "Geography",
       "difficulty": "medium",
       "topic": "Climatology",
-      "question": "What type of climate is characterized by dry summers and wet winters?",
+      "question": "Which of the following regions experiences a Mediterranean climate?",
       "options": [
-        "Tropical",
-        "Mediterranean",
-        "Continental",
-        "Polar"
+        "Northern California",
+        "Siberia",
+        "Amazon Basin",
+        "Sahara Desert"
       ],
-      "answer_index": 1,
-      "explanation": "The Mediterranean climate is characterized by dry summers and wet winters. This climate is typically found in regions bordering the Mediterranean Sea and includes areas in California, Chile, and parts of Australia.",
+      "answer_index": 0,
+      "explanation": "Northern California experiences a Mediterranean climate characterized by dry summers and wet winters. This climate type is typically found in regions along the Mediterranean Sea and has specific temperature and precipitation patterns.",
       "id": "2026-06-07-08"
     },
     {
       "category": "Geography",
       "difficulty": "hard",
-      "topic": "Geopolitics",
-      "question": "Which of the following rivers forms a natural boundary between India and Bangladesh?",
+      "topic": "Geographical Features",
+      "question": "Which mountain range separates Europe from Asia?",
       "options": [
-        "Brahmaputra River",
-        "Ganges River",
-        "Teesta River",
-        "Meghna River"
+        "Andes",
+        "Himalayas",
+        "Ural Mountains",
+        "Rocky Mountains"
       ],
-      "answer_index": 0,
-      "explanation": "The Brahmaputra River serves as a natural boundary between India and Bangladesh in certain regions. It originates in Tibet, flows through India, and eventually merges with the Ganges delta in Bangladesh, forming an extensive and complex river system.",
+      "answer_index": 2,
+      "explanation": "The Ural Mountains are traditionally considered the natural boundary separating Europe from Asia. This mountain range stretches from the Arctic Ocean in the north to the Ural River and Caspian Sea in the south, marking the continental divide.",
       "id": "2026-06-07-09"
     },
     {
       "category": "Economy",
       "difficulty": "easy",
-      "topic": "Basic Economic Concepts",
-      "question": "What does the term 'opportunity cost' refer to in economics?",
+      "topic": "Inflation",
+      "question": "What is the primary measure used to calculate inflation in India?",
       "options": [
-        "The cost incurred when purchasing goods",
-        "The loss of potential gain from other alternatives when one alternative is chosen",
-        "The total costs associated with production",
-        "The cost of financing a project"
+        "Consumer Price Index (CPI)",
+        "Wholesale Price Index (WPI)",
+        "Gross Domestic Product (GDP)",
+        "Bank Rate"
       ],
-      "answer_index": 1,
-      "explanation": "Opportunity cost is defined as the loss of potential gain from other alternatives when one alternative is chosen. It highlights the concept that every choice involves trade-offs and what one sacrifices in order to pursue a particular course of action.",
+      "answer_index": 0,
+      "explanation": "The Consumer Price Index (CPI) is the primary measure used to calculate inflation in India. It reflects the changes in the price level of a basket of consumer goods and services purchased by households, making it a vital indicator of the cost of living.",
       "id": "2026-06-07-10"
     },
     {
       "category": "Economy",
       "difficulty": "medium",
-      "topic": "Indian Economic Policies",
-      "question": "Which of the following is a feature of the Goods and Services Tax (GST) implemented in India?",
+      "topic": "Monetary Policy",
+      "question": "Which of the following tools is primarily used by the Reserve Bank of India (RBI) to control liquidity in the economy?",
       "options": [
-        "It is a direct tax levied only on goods",
-        "It replaced multiple indirect taxes with a single tax",
-        "It is applicable only to service providers",
-        "It allows states to impose additional taxes on goods"
+        "Cash Reserve Ratio (CRR)",
+        "Fiscal Deficit",
+        "Public Debt",
+        "Tax Revenue"
       ],
-      "answer_index": 1,
-      "explanation": "The Goods and Services Tax (GST) replaced multiple indirect taxes with a single tax structure, simplifying the tax regime in India. It aims to eliminate the cascading effect of taxes and create a unified market across the country.",
+      "answer_index": 0,
+      "explanation": "The Cash Reserve Ratio (CRR) is a monetary policy tool used by the RBI to control liquidity. By adjusting the CRR, the RBI can influence the amount of funds that banks can lend, thereby managing liquidity in the economy.",
       "id": "2026-06-07-11"
     },
     {
       "category": "Economy",
       "difficulty": "hard",
       "topic": "International Trade",
-      "question": "Which of the following statements correctly describes the concept of 'Comparative Advantage'?",
+      "question": "Which of the following statements is true regarding the 'Balance of Payments' (BoP)?",
       "options": [
-        "It refers to the ability of a country to produce more of a good than another country",
-        "It involves producing goods at a lower opportunity cost than another producer",
-        "It is a measure of how well a country can export goods",
-        "It indicates the trade balance of a country"
+        "It includes only current account transactions.",
+        "It is always in surplus.",
+        "It reflects a country's economic relations with the rest of the world.",
+        "It does not include capital account transactions."
       ],
-      "answer_index": 1,
-      "explanation": "Comparative advantage refers to the ability of a party to produce a particular good or service at a lower opportunity cost than another party. This concept is foundational in international trade, as it encourages countries to specialize in the production of goods where they have a relative efficiency, leading to increased overall economic welfare.",
+      "answer_index": 2,
+      "explanation": "The Balance of Payments (BoP) reflects a country's economic relations with the rest of the world, encompassing both current account (trade of goods and services) and capital account transactions (financial flows). It provides a comprehensive overview of a nation's economic dealings internationally.",
       "id": "2026-06-07-12"
     },
     {
       "category": "Science & Tech",
       "difficulty": "easy",
-      "topic": "Biotechnology",
-      "question": "What is the primary purpose of CRISPR technology in genetics?",
+      "topic": "Basic Biology",
+      "question": "What is the main function of mitochondria in eukaryotic cells?",
       "options": [
-        "Gene editing",
+        "Energy production",
         "Protein synthesis",
         "DNA replication",
         "Cell division"
       ],
       "answer_index": 0,
-      "explanation": "CRISPR technology is primarily used for gene editing, allowing scientists to modify DNA sequences and alter gene function. This technology has revolutionized genetic research and holds potential for treating genetic disorders.",
+      "explanation": "Mitochondria are known as the 'powerhouses of the cell' because they generate adenosine triphosphate (ATP), the energy currency of the cell, through the process of cellular respiration.",
       "id": "2026-06-07-13"
     },
     {
       "category": "Science & Tech",
       "difficulty": "medium",
-      "topic": "Artificial Intelligence",
-      "question": "Which of the following is a key characteristic of supervised learning in machine learning?",
+      "topic": "Environmental Science",
+      "question": "What is the primary purpose of the Kyoto Protocol?",
       "options": [
-        "Unlabeled data",
-        "Feedback from the environment",
-        "Training with labeled data",
-        "Random exploration"
+        "Promote renewable energy",
+        "Reduce greenhouse gas emissions",
+        "Increase biodiversity",
+        "Enhance agricultural productivity"
       ],
-      "answer_index": 2,
-      "explanation": "Supervised learning involves training a model on a dataset that includes both input features and corresponding output labels. This allows the model to learn the relationship between inputs and outputs, making it a powerful approach for predictive modeling.",
+      "answer_index": 1,
+      "explanation": "The Kyoto Protocol is an international treaty aimed at reducing greenhouse gas emissions and combating global warming. It commits its parties to reduce emissions based on the premise that global warming exists and human-made CO2 emissions have caused it.",
       "id": "2026-06-07-14"
     },
     {
       "category": "Science & Tech",
       "difficulty": "hard",
-      "topic": "Quantum Computing",
-      "question": "In quantum computing, what is the significance of 'quantum entanglement'?",
+      "topic": "Artificial Intelligence",
+      "question": "Which of the following algorithms is primarily used for solving optimization problems in machine learning?",
       "options": [
-        "It enables classical bits to store more information.",
-        "It allows qubits to be correlated irrespective of distance.",
-        "It improves the speed of classical computers.",
-        "It is a method for error correction in quantum bits."
+        "Decision Trees",
+        "Genetic Algorithms",
+        "Support Vector Machines",
+        "K-Means Clustering"
       ],
       "answer_index": 1,
-      "explanation": "Quantum entanglement is a phenomenon where qubits become interconnected in such a way that the state of one qubit can depend on the state of another, no matter how far apart they are. This unique property is crucial for the development of quantum networks and quantum communication.",
+      "explanation": "Genetic Algorithms are optimization algorithms inspired by the process of natural selection. They are used to find approximate solutions to complex problems by evolving a population of candidate solutions over generations.",
       "id": "2026-06-07-15"
     },
     {
       "category": "Environment",
       "difficulty": "easy",
       "topic": "Biodiversity",
-      "question": "Which of the following is considered a keystone species in an ecosystem?",
+      "question": "Which of the following is the largest terrestrial biome on Earth?",
       "options": [
-        "Sea otter",
-        "Goldfish",
-        "Pigeon",
-        "House cat"
+        "Taiga",
+        "Desert",
+        "Tropical Rainforest",
+        "Temperate Forest"
       ],
       "answer_index": 0,
-      "explanation": "A keystone species is one that has a disproportionately large effect on its environment relative to its abundance. Sea otters help maintain kelp forest ecosystems by preying on sea urchins, which, if left unchecked, can overgraze and devastate kelp populations.",
+      "explanation": "The taiga, also known as boreal forest, is the largest terrestrial biome, characterized by coniferous forests and covering large areas of the northern hemisphere. Its vast expanse extends across Canada, Alaska, Russia, and parts of Northern Europe.",
       "id": "2026-06-07-16"
     },
     {
       "category": "Environment",
       "difficulty": "medium",
       "topic": "Climate Change",
-      "question": "Which of the following international agreements aims to limit global warming to well below 2 degrees Celsius above pre-industrial levels?",
+      "question": "Which of the following gases is primarily responsible for the greenhouse effect?",
       "options": [
-        "Kyoto Protocol",
-        "Paris Agreement",
-        "Montreal Protocol",
-        "Río Declaration"
+        "Ozone",
+        "Carbon Dioxide",
+        "Nitrogen",
+        "Argon"
       ],
       "answer_index": 1,
-      "explanation": "The Paris Agreement is a landmark international accord that brings all nations together to combat climate change and adapt to its effects. Its primary goal is to limit global warming to well below 2 degrees Celsius, and to pursue efforts to limit the temperature increase to 1.5 degrees Celsius.",
+      "explanation": "Carbon dioxide (CO2) is the primary greenhouse gas that contributes to the greenhouse effect by trapping heat in the Earth's atmosphere. Its increased concentration due to human activities, such as fossil fuel combustion, has a significant impact on global warming.",
       "id": "2026-06-07-17"
     },
     {
       "category": "Environment",
       "difficulty": "hard",
       "topic": "Environmental Policy",
-      "question": "Which of the following concepts refers to the systematic allocation of limited resources among competing uses to maximize societal welfare?",
+      "question": "Which of the following is a key feature of the Convention on Biological Diversity (CBD)?",
       "options": [
-        "Sustainable Development",
-        "Environmental Justice",
-        "Resource Management",
-        "Ecosystem Services"
+        "Sustainable use of biological resources",
+        "Mandatory technology transfer",
+        "Universal emission targets",
+        "Financial penalties for non-compliance"
       ],
-      "answer_index": 2,
-      "explanation": "Resource management encompasses the planning and management of natural resources such as land, water, and biodiversity to ensure their sustainability and efficiency. It aims to balance the needs of the environment with those of society and the economy, maximizing overall welfare.",
+      "answer_index": 0,
+      "explanation": "The Convention on Biological Diversity (CBD) emphasizes the sustainable use of biological resources and the conservation of biodiversity. It aims to promote fair and equitable sharing of benefits arising from genetic resources, rather than imposing mandatory technology transfers or penalties.",
       "id": "2026-06-07-18"
     },
     {
       "category": "Current Affairs",
       "difficulty": "easy",
-      "topic": "International Relations",
-      "question": "Which country recently launched the 'Global Green Deal' initiative aimed at promoting sustainable development in 2026?",
+      "topic": "LPG Price Hike",
+      "question": "As of June 2026, what is the new price of a domestic LPG cylinder in Chennai?",
       "options": [
-        "Germany",
-        "India",
-        "Japan",
-        "Brazil"
+        "₹957.50",
+        "₹899.00",
+        "₹1025.00",
+        "₹845.00"
       ],
       "answer_index": 0,
-      "explanation": "Germany launched the 'Global Green Deal' initiative in 2026 to enhance international cooperation on sustainable development and climate change. This initiative aims to mobilize resources and technologies for greener economies worldwide.",
+      "explanation": "The domestic LPG cylinder price in Chennai has recently increased to ₹957.50, reflecting a rise of ₹89 over three months. This significant hike has raised concerns among consumers regarding fuel affordability.",
       "id": "2026-06-07-19"
     },
     {
       "category": "Current Affairs",
       "difficulty": "medium",
-      "topic": "Economic Policy",
-      "question": "What significant trade agreement was finalized between the European Union and ASEAN in early 2026?",
+      "topic": "Rajasthan Construction Survey",
+      "question": "What is the primary objective of the recent survey launched in Rajasthan concerning border areas?",
       "options": [
-        "Comprehensive Trade Agreement",
-        "Green Economy Pact",
-        "Digital Economy Agreement",
-        "Sustainable Trade Framework"
+        "To assess tourist facilities",
+        "To scrutinize unauthorized constructions",
+        "To evaluate agricultural productivity",
+        "To promote local artisans"
       ],
-      "answer_index": 2,
-      "explanation": "The European Union and ASEAN finalized the 'Digital Economy Agreement' in early 2026, aimed at enhancing digital trade and cooperation. This agreement focuses on e-commerce, data flow, and digital services, reflecting the growing importance of the digital economy.",
+      "answer_index": 1,
+      "explanation": "The survey in Rajasthan aims to scrutinize unauthorized constructions within 15 kilometers of the international border. This initiative follows directions from the Union Home Minister during a security review, emphasizing the importance of regulated development in sensitive areas.",
       "id": "2026-06-07-20"
     },
     {
       "category": "Current Affairs",
       "difficulty": "hard",
-      "topic": "Geopolitical Developments",
-      "question": "In 2026, which two countries engaged in a historic joint military exercise aimed at enhancing defense cooperation in the Indo-Pacific region?",
+      "topic": "West Asia Conflict",
+      "question": "In the context of the rising tensions in West Asia, which recent action was taken by the U.S. military?",
       "options": [
-        "United States and India",
-        "Australia and Japan",
-        "South Korea and New Zealand",
-        "China and Russia"
+        "Sent troops to Israel",
+        "Intercepted Iranian drones",
+        "Established a no-fly zone over Iraq",
+        "Supported peace talks in Tehran"
       ],
       "answer_index": 1,
-      "explanation": "Australia and Japan engaged in a historic joint military exercise in 2026, focused on strengthening defense cooperation in the Indo-Pacific region. This exercise is part of their broader strategic partnership aimed at addressing regional security challenges and enhancing interoperability.",
+      "explanation": "The U.S. military recently destroyed two Iranian drones that were targeting shipping in the Strait of Hormuz, indicating active involvement in addressing threats to maritime security amidst escalating tensions in the region. This action underscores the complexities of U.S. military engagements in the context of Iranian activities.",
       "id": "2026-06-07-21"
     },
     {
       "category": "International Relations",
       "difficulty": "easy",
-      "topic": "Global Trade Agreements",
-      "question": "Which of the following countries recently signed a Free Trade Agreement (FTA) with the United Kingdom in 2026?",
+      "topic": "Middle East Tensions",
+      "question": "Which country recently reported that its army intercepted projectiles fired from Lebanon amid rising tensions in West Asia?",
       "options": [
-        "India",
-        "Australia",
-        "Brazil",
-        "South Africa"
+        "Israel",
+        "Iran",
+        "Lebanon",
+        "Syria"
       ],
-      "answer_index": 1,
-      "explanation": "Australia signed a Free Trade Agreement with the United Kingdom in 2026, enhancing trade relations post-Brexit. This agreement aims to reduce tariffs and promote bilateral trade, demonstrating the UK's intent to strengthen ties with Commonwealth countries.",
+      "answer_index": 0,
+      "explanation": "Israel has been actively involved in recent military engagements in the region, and its army confirmed the interception of projectiles originating from Lebanon, highlighting the ongoing tensions between these nations.",
       "id": "2026-06-07-22"
     },
     {
       "category": "International Relations",
       "difficulty": "medium",
-      "topic": "Geopolitical Alliances",
-      "question": "Which of the following countries is a founding member of the newly established geopolitical alliance known as the 'AUKUS Plus' in 2026?",
+      "topic": "Geopolitical Developments",
+      "question": "What significant event occurred involving Iranian drones targeting shipping in the Strait of Hormuz as reported by the U.S. in June 2026?",
       "options": [
-        "Japan",
-        "Canada",
-        "India",
-        "South Korea"
+        "Destruction of Iranian naval base",
+        "Destruction of two Iranian drones",
+        "Signing of a peace treaty",
+        "Deployment of additional U.S. troops"
       ],
-      "answer_index": 0,
-      "explanation": "Japan is a founding member of the 'AUKUS Plus' alliance established in 2026, which includes the original AUKUS partners (Australia, the UK, and the US) along with Japan and other allies, aimed at enhancing security cooperation in the Indo-Pacific region.",
+      "answer_index": 1,
+      "explanation": "The U.S. military reported that it destroyed two Iranian drones that were targeting shipping in the strategic Strait of Hormuz, indicating heightened military activity and ongoing tensions in the region.",
       "id": "2026-06-07-23"
     },
     {
       "category": "International Relations",
       "difficulty": "hard",
-      "topic": "Regional Conflicts",
-      "question": "What was the primary focus of the 2026 Summit held in Riyadh, which involved several Middle Eastern nations?",
+      "topic": "Ukraine Conflict",
+      "question": "In June 2026, which incident involving Russian military action did Ukraine report regarding the Chornobyl nuclear site?",
       "options": [
-        "Counter-terrorism cooperation",
-        "Nuclear disarmament",
-        "Economic integration",
-        "Climate change initiatives"
+        "Full-scale attack on nuclear facilities",
+        "Drone strike on nuclear-fuel storage",
+        "Cyber-attack on nuclear control systems",
+        "Infiltration by special forces"
       ],
-      "answer_index": 2,
-      "explanation": "The 2026 Summit held in Riyadh primarily focused on economic integration among Middle Eastern nations, aiming to enhance regional trade and investment, and reduce economic dependencies on oil. This reflects a strategic pivot towards diversifying economies in the region.",
+      "answer_index": 1,
+      "explanation": "Ukraine reported that a Russian drone struck a nuclear-fuel storage facility near Chornobyl, causing damage but no significant risk as there was no spent fuel stored at that time, illustrating the continuing threat of military actions near sensitive sites.",
       "id": "2026-06-07-24"
     },
     {
       "category": "Art & Culture",
       "difficulty": "easy",
-      "topic": "Folk Music",
-      "question": "Which of the following is a popular traditional dance form from the state of Punjab, known for its energetic movements and lively music?",
+      "topic": "Folk Art",
+      "question": "Which of the following is a famous form of folk painting originating from the state of Madhya Pradesh, characterized by its vibrant colors and depiction of nature and tribal life?",
       "options": [
-        "Bhangra",
-        "Garba",
-        "Kathak",
-        "Mohiniyattam"
+        "Warli",
+        "Madhubani",
+        "Pattachitra",
+        "Kalamkari"
       ],
       "answer_index": 0,
-      "explanation": "Bhangra is a vibrant and energetic folk dance originating from Punjab, characterized by its lively beats and movements. It is often performed during harvest festivals and celebrations, making it a significant aspect of Punjabi culture.",
+      "explanation": "Warli painting is a traditional folk art from the Warli tribe of Maharashtra, but it has gained popularity in Madhya Pradesh as well. It is known for its simple geometric shapes and earthy colors that depict daily life and nature.",
       "id": "2026-06-07-25"
     },
     {
       "category": "Art & Culture",
       "difficulty": "medium",
-      "topic": "Classical Dance",
-      "question": "Which classical dance form of India is noted for its elaborate footwork and expressive hand gestures (mudras), and is primarily associated with the state of Tamil Nadu?",
+      "topic": "Classical Music",
+      "question": "Which of the following is a prominent form of classical music that originated in South India and is known for its complex rhythms and melodic structures?",
       "options": [
-        "Kathak",
-        "Bharatanatyam",
-        "Odissi",
-        "Kuchipudi"
+        "Hindustani",
+        "Carnatic",
+        "Fusion",
+        "Ghazal"
       ],
       "answer_index": 1,
-      "explanation": "Bharatanatyam is a classical dance form that originates from Tamil Nadu. It is known for its intricate footwork, expressive hand gestures, and storytelling through dance, representing the rich cultural heritage of South India.",
+      "explanation": "Carnatic music is a major form of classical music originating from South India, characterized by its intricate melodies and rhythms. It is distinct from Hindustani music, which is more prevalent in North India.",
       "id": "2026-06-07-26"
     },
     {
       "category": "Art & Culture",
       "difficulty": "hard",
-      "topic": "Heritage Sites",
-      "question": "Which UNESCO World Heritage Site in India is renowned for its rock-cut architecture and is considered one of the earliest examples of Buddhist architecture?",
+      "topic": "Cultural Heritage",
+      "question": "The 'Chola bronzes' are a significant aspect of Indian heritage, renowned for their artistry in which of the following contexts?",
       "options": [
-        "Ajanta Caves",
-        "Ellora Caves",
-        "Khajuraho Temples",
-        "Hampi"
+        "Temple architecture",
+        "Classical dance",
+        "Metal casting",
+        "Religious manuscripts"
       ],
-      "answer_index": 0,
-      "explanation": "The Ajanta Caves, a UNESCO World Heritage Site, are famous for their ancient rock-cut Buddhist monuments that date back to the 2nd century BCE. They are known for their stunning frescoes and sculptures, representing some of the earliest examples of Buddhist art and architecture in India.",
+      "answer_index": 2,
+      "explanation": "Chola bronzes refer to exquisite sculptures created during the Chola dynasty, primarily known for their advanced techniques in metal casting. These bronzes, especially of deities, showcase intricate details and are revered in the context of temple art and iconography.",
       "id": "2026-06-07-27"
     },
     {
       "category": "Govt Schemes",
       "difficulty": "easy",
-      "topic": "Pradhan Mantri Ujjwala Yojana",
-      "question": "What is the primary aim of the Pradhan Mantri Ujjwala Yojana?",
+      "topic": "Housing",
+      "question": "What is the primary objective of the Pradhan Mantri Awas Yojana (PMAY)?",
       "options": [
-        "To provide LPG connections to women from below poverty line households",
-        "To distribute free electricity to rural areas",
-        "To improve sanitation facilities in urban areas",
-        "To promote solar energy adoption"
+        "Affordable housing for all",
+        "Skill development for youth",
+        "Financial support for farmers",
+        "Promotion of digital literacy"
       ],
       "answer_index": 0,
-      "explanation": "The Pradhan Mantri Ujjwala Yojana aims to provide clean cooking fuel (LPG) connections to women from below poverty line households. This initiative helps reduce health hazards associated with using traditional fuels like wood and coal.",
+      "explanation": "The Pradhan Mantri Awas Yojana (PMAY) aims to provide affordable housing to the urban poor and ensure that every citizen has access to a home by 2022. The initiative reflects the government's commitment to housing for all.",
       "id": "2026-06-07-28"
     },
     {
       "category": "Govt Schemes",
       "difficulty": "medium",
-      "topic": "Atal Pension Yojana",
-      "question": "Which of the following features is associated with the Atal Pension Yojana?",
+      "topic": "Health",
+      "question": "Which of the following schemes is primarily aimed at providing health insurance coverage to vulnerable sections of society in India?",
       "options": [
-        "It guarantees a minimum monthly pension of ₹3,000 for all subscribers",
-        "It is applicable only to self-employed individuals",
-        "It provides a fixed pension amount based on the subscriber's contribution",
-        "It targets unorganized sector workers aged between 18 to 40 years"
+        "Ayushman Bharat",
+        "Pradhan Mantri Fasal Bima Yojana",
+        "Mahatma Gandhi National Rural Employment Guarantee Act",
+        "Integrated Child Development Services"
       ],
-      "answer_index": 3,
-      "explanation": "The Atal Pension Yojana is designed for unorganized sector workers aged between 18 and 40 years. It aims to provide them with a fixed pension amount upon reaching the age of 60, depending on their contributions.",
+      "answer_index": 0,
+      "explanation": "Ayushman Bharat is a flagship health insurance scheme that provides coverage to economically disadvantaged individuals, ensuring access to quality healthcare services. It is one of the largest government-funded healthcare schemes in the world.",
       "id": "2026-06-07-29"
     },
     {
       "category": "Govt Schemes",
       "difficulty": "hard",
-      "topic": "Pradhan Mantri Fasal Bima Yojana",
-      "question": "Which of the following statements correctly describes the Pradhan Mantri Fasal Bima Yojana (PMFBY)?",
+      "topic": "Employment",
+      "question": "Which of the following statements is true regarding the Pradhan Mantri Kaushal Vikas Yojana (PMKVY)?",
       "options": [
-        "It covers only food crops and does not include commercial or horticultural crops",
-        "Premiums are shared equally between farmers and the government",
-        "It aims to provide insurance cover and financial support to farmers in the event of crop failure",
-        "Farmers have to pay a fixed premium of 10% of the sum insured"
+        "It focuses on providing loans to small businesses.",
+        "It aims to enhance the employability of youth through skill training.",
+        "It is specifically designed for women entrepreneurs.",
+        "It provides direct cash transfers to unemployed youth."
       ],
-      "answer_index": 2,
-      "explanation": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) aims to provide insurance cover and financial support to farmers in case of crop failure due to various reasons like natural calamities, pests, and diseases. This scheme encourages farmers to adopt modern agricultural practices.",
+      "answer_index": 1,
+      "explanation": "The Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a skill development initiative aimed at enhancing the employability of the youth by providing them with industry-relevant skill training. The scheme emphasizes empowering young individuals through skill acquisition.",
       "id": "2026-06-07-30"
     }
   ]

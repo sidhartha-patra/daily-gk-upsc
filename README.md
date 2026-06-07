@@ -28,24 +28,29 @@ site on **GitHub Pages**. A **Streamlit** view is included for a desktop/Python 
 - **Light/dark theme**, fully responsive, shareable link.
 - **Never breaks**: if the LLM is unavailable, a curated fallback question bank keeps the
   daily set flowing.
+- **📰 Current affairs grounded in real news** — each day's Current Affairs / International
+  Relations questions are generated from live RSS headlines (The Hindu, Google News), shown
+  in a "Today in the news" panel.
+- **📧 Optional daily email digest** — the link, category breakdown, two solved warm-ups and
+  the day's headlines, delivered to your inbox (see setup below).
 
 ## 🧠 How it works
 
 ```
-                 ┌─────────────────────────────────────────────┐
-   06:00 IST ───►│ .github/workflows/daily.yml (cron + manual) │
-                 └───────────────────┬─────────────────────────┘
-                                     ▼
-            scripts/generate_quiz.py ── GitHub Models (openai/gpt-4o-mini)
-                  │   1) REST API  (CI, GITHUB_TOKEN, models:read)
-                  │   2) gh models CLI (local)
-                  │   3) curated fallback bank  ◄── scripts/fallback_bank.json
-                  ▼
-            data/quiz-YYYY-MM-DD.json  +  data/latest.json  +  data/index.json
-                  │  (committed back to main)
-                  ▼
-            GitHub Pages serves index.html + assets/  ──►  your browser
-                                                            (progress in localStorage)
+                  ┌─────────────────────────────────────────────┐
+    06:00 IST ───►│ .github/workflows/daily.yml (cron + manual) │
+                  └───────────────────┬─────────────────────────┘
+                                      ▼
+  scripts/fetch_news.py (RSS) ──grounds──►  scripts/generate_quiz.py
+   The Hindu · Google News                    ── GitHub Models (openai/gpt-4o-mini)
+                                               │  1) REST API (CI, GITHUB_TOKEN, models:read)
+                                               │  2) gh models CLI (local)
+                                               │  3) curated fallback bank ◄ scripts/fallback_bank.json
+                                               ▼
+             data/quiz-YYYY-MM-DD.json + latest.json + index.json  (committed to main)
+                   │
+                   ├──► GitHub Pages serves index.html + assets/ ──► browser (progress in localStorage)
+                   └──► scripts/send_email.py ──► daily email digest (optional, if secrets set)
 ```
 
 - The generator de-duplicates against recent days so questions stay unique.
@@ -57,10 +62,10 @@ site on **GitHub Pages**. A **Streamlit** view is included for a desktop/Python 
 **Static web app** (no dependencies):
 
 ```bash
-# 1. Generate a set for today (uses your `gh` login for GitHub Models)
+# 1. Generate a set for today (uses your `gh` login for GitHub Models + live news)
 python scripts/generate_quiz.py
-#    …or without any LLM, purely from the curated bank:
-python scripts/generate_quiz.py --no-llm
+#    …skip live news grounding:           python scripts/generate_quiz.py --no-news
+#    …or no LLM at all (curated bank):     python scripts/generate_quiz.py --no-llm
 
 # 2. Serve the site
 python -m http.server 8000
@@ -74,10 +79,32 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
+## 📧 Daily email digest (optional)
+
+The workflow emails you the daily digest if these **repository secrets** are set
+(Settings → Secrets and variables → Actions). With a Gmail account:
+
+1. Enable **2-Step Verification** on the Google account, then create an **App Password**
+   at https://myaccount.google.com/apppasswords (pick "Mail"). You'll get a 16-character code.
+2. Add these secrets:
+
+   | Secret | Value |
+   | --- | --- |
+   | `SMTP_USER` | your Gmail address (e.g. `you@gmail.com`) |
+   | `SMTP_PASS` | the 16-character Gmail **App Password** (no spaces) |
+   | `EMAIL_TO`  | recipient(s), comma-separated |
+   | `SMTP_HOST` | *(optional)* default `smtp.gmail.com` |
+   | `SMTP_PORT` | *(optional)* default `465` (SSL); use `587` for STARTTLS |
+   | `EMAIL_FROM`| *(optional)* defaults to `SMTP_USER` |
+
+If the secrets are absent the email step is skipped cleanly — generation and the site still work.
+Test it anytime: `gh workflow run daily.yml` (or set the vars locally and run `python scripts/send_email.py`).
+
 ## 🔧 Customize
 
 | What | Where |
 | --- | --- |
+| News sources | `FEEDS` in `scripts/fetch_news.py` |
 | Categories | `CATEGORIES` in `scripts/generate_quiz.py` (and `assets/app.js`, `streamlit_app.py`) |
 | Questions per category | `--per-category` flag (default `3` → 30/day) |
 | Model | `LLM_MODEL` env var or `--model` (default `openai/gpt-4o-mini`) |
@@ -94,6 +121,9 @@ Each `data/quiz-YYYY-MM-DD.json`:
   "generated_at": "2026-06-07T06:00:00+05:30",
   "generator": "github-models:openai/gpt-4o-mini",
   "count": 30,
+  "news": [
+    { "title": "…", "source": "The Hindu - International", "link": "https://…", "published": "2026-06-07T…" }
+  ],
   "questions": [
     {
       "id": "2026-06-07-01",
