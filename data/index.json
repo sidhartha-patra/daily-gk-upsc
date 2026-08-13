@@ -1,6 +1,12 @@
 {
-  "updated_at": "2026-08-12T08:32:40.313838+05:30",
+  "updated_at": "2026-08-13T08:35:57.199539+05:30",
   "days": [
+    {
+      "date": "2026-08-13",
+      "file": "quiz-2026-08-13.json",
+      "count": 30,
+      "generator": "fallback-bank"
+    },
     {
       "date": "2026-08-12",
       "file": "quiz-2026-08-12.json",
