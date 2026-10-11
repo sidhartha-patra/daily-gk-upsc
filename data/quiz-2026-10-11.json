@@ -1,0 +1,628 @@
+{
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T11:35:19.057110+05:30",
+  "generator": "fallback-bank",
+  "categories": [
+    "Polity",
+    "History",
+    "Geography",
+    "Economy",
+    "Science & Tech",
+    "Environment",
+    "Current Affairs",
+    "International Relations",
+    "Art & Culture",
+    "Govt Schemes"
+  ],
+  "category_counts": {
+    "Polity": 3,
+    "History": 3,
+    "Geography": 3,
+    "Economy": 3,
+    "Science & Tech": 3,
+    "Environment": 3,
+    "Current Affairs": 3,
+    "International Relations": 3,
+    "Art & Culture": 3,
+    "Govt Schemes": 3
+  },
+  "count": 30,
+  "news": [
+    {
+      "title": "Shigella cases ring alarm bells in Thrissur as 10 infections surface in nine days",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/kerala/shigella-cases-ring-alarm-bells-in-thrissur-as-10-infections-surface-in-nine-days/article71568228.ece",
+      "published": "2026-10-11T11:25:04+05:30"
+    },
+    {
+      "title": "Anti-CEC protest LIVE updates: 'Exceptional and urgent,' Justice Bagchi says as Supreme Court hears pleas challenging mass detentions, transit shutdown in Delhi",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/cjp-protests-delhi-police-abhijeet-dipke-neha-bora-congress-rahul-gandhi-detentions-cec-gyanesh-kumar-resignation-live-updates/article71570231.ece",
+      "published": "2026-10-11T11:24:51+05:30"
+    },
+    {
+      "title": "Berlin to BITS Pilani: How Nobel-winning Optogenetics connects to parasite research in Hyderabad",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/telangana/berlin-to-bits-pilani-how-nobel-winning-optogenetics-connects-to-parasite-research-in-hyderabad/article71570522.ece",
+      "published": "2026-10-11T11:24:49+05:30"
+    },
+    {
+      "title": "PM Modi in Chennai LIVE | Inauguration of Chennai Metro Phase II stretch",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/chennai/chennai-metro-phase-two-inauguration-poonamallee-vadapalani-narendra-modi-visit-schedule-cm-vijay-meeting-live-updates/article71570613.ece",
+      "published": "2026-10-11T11:23:49+05:30"
+    },
+    {
+      "title": "U.S. military says it disabled cargo vessel trying to run Iran blockade",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-disabled-cargo-vessel-trying-to-run-iran-blockade/article71570769.ece",
+      "published": "2026-10-11T11:23:42+05:30"
+    },
+    {
+      "title": "SIR protest: Former Bengaluru top cop and BJP leader Bhaskar Rao seeks verification of Dhruv Rathee’s citizenship, visa conditions",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/bangalore/sir-protest-former-bengaluru-top-cop-and-bjp-leader-bhaskar-rao-seeks-verification-of-dhruv-rathees-citizenship-visa-conditions/article71564316.ece",
+      "published": "2026-10-11T11:22:24+05:30"
+    },
+    {
+      "title": "All 22 Indian crew rescued and safe after incident off UAE coast, Consulate says",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/all-22-indian-crew-rescued-and-safe-after-incident-off-uae-coast-consulate-says/article71570768.ece",
+      "published": "2026-10-11T11:20:45+05:30"
+    },
+    {
+      "title": "Parliamentary panel indicts NTA; hope ‘arrogant’ Modi government takes it seriously: Congress",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/parliamentary-panel-indicts-nta-hope-arrogant-modi-government-takes-it-seriously-congress/article71570702.ece",
+      "published": "2026-10-11T11:14:39+05:30"
+    },
+    {
+      "title": "SITAM Director says Ratan Tata Innovation Hub initiatives encourage students to develop new ideas",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/sitam-director-says-ratan-tata-innovation-hub-initiatives-encourage-students-to-develop-new-ideas/article71570712.ece",
+      "published": "2026-10-11T11:14:30+05:30"
+    },
+    {
+      "title": "Tushar Gandhi among 12 named in FIR over Mumbai protest; 600 detained and released",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/maharashtra/tushar-gandhi-among-12-named-in-fir-over-mumbai-protest-600-detained-and-released/article71570660.ece",
+      "published": "2026-10-11T11:12:57+05:30"
+    },
+    {
+      "title": "Assault rifles, pistols, 11 grenades, IEDs recovered in Kashmir’s Sopore: Police",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/jammu-and-kashmir/cache-of-arms-ammunition-recovered-from-forest-in-jammu-and-kashmirs-baramulla/article71568159.ece",
+      "published": "2026-10-11T11:04:21+05:30"
+    },
+    {
+      "title": "Situation remains tense in violence-hit Manipur as toll rises to nine, CM calls for peace",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/manipur/situation-remains-tense-in-violence-hit-manipur-as-toll-rises-to-nine-cm-calls-for-peace/article71570700.ece",
+      "published": "2026-10-11T11:01:14+05:30"
+    },
+    {
+      "title": "INDIA bloc to hold protest march in Delhi on October 12, submit memorandum to CJI",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/india-bloc-to-hold-protest-march-in-delhi-on-october-12-submit-memorandum-to-cji/article71570717.ece",
+      "published": "2026-10-11T10:48:44+05:30"
+    },
+    {
+      "title": "Delhi protest: YouTuber Dhruv Rathee released from detention",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-protest-youtuber-dhruv-rathee-released-from-detention/article71570635.ece",
+      "published": "2026-10-11T10:46:48+05:30"
+    },
+    {
+      "title": "Not just Jantar Mantar, mobile internet blocked at eight stadium-turned-detention centres across Delhi on Oct 10",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Delhi/not-just-jantar-mantar-mobile-internet-blocked-at-eight-stadium-turned-detention-centres-across-delhion-oct-10/article71570562.ece",
+      "published": "2026-10-11T10:46:41+05:30"
+    },
+    {
+      "title": "World condemns deadly Houthi attack on Saudi Arabia’s Riyadh airport - Al Jazeera",
+      "source": "Google News India",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLWVoSG40NmNyb1B5YkpTVUlpc1l3b1FaYTdlczcwUURLTkt2R2FUX2dfTGFsc2pJS2lfSDY0Tzd5RUpVWjFZdEw1R0o4UUhkdEJSSWpsd0hIRTU5eTZpRkRhV2IyazRnRVc4dzk4STlZWVpobkF1am84bGtHOXZFbk9Kdk5rMU9yR0pGajk1STBYTkdGZFhVbzM1MU1hdV9Rcm11d1ZrdFdCWG96VHfSAbMBQVVfeXFMTmpLZWNQZ1RyWXk2Q0VHMUs3cUpwUGtUQVRJdGgxd01rV1RsbWg0ZkdQTGtyNTlVRFRDcXVGWU5lQTd0VXZYV0FKSlQzWDh2MmZyeWFiNlVYRHBPcTJoTnRLQVRfWFVBb09UUDduNFBfdktFM1k2UDByaFFtNnV6c1l4SHg5bXkyYXQ0a0dDU3hFUFcyUDUtdzNNMHdYTnFCbkFYa2hIeWZfd1BCTjltNktXanc?oc=5",
+      "published": "2026-10-11T05:15:00+00:00"
+    },
+    {
+      "title": "Stringent traffic curbs in Delhi as anti-CEC protest enters second day",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Delhi/delhi-faces-second-day-stringent-traffic-curbs-as-cjp-protests-continue/article71570633.ece",
+      "published": "2026-10-11T10:40:58+05:30"
+    },
+    {
+      "title": "CJP 'B-Team' of AAP, Congress: Delhi CM Rekha Gupta",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Delhi/cjp-b-team-of-aap-congress-delhi-cm-rekha-gupta/article71570693.ece",
+      "published": "2026-10-11T10:40:05+05:30"
+    },
+    {
+      "title": "PM Modi greets people on Navratri",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/pm-modi-greets-people-on-navratri/article71570706.ece",
+      "published": "2026-10-11T10:36:39+05:30"
+    },
+    {
+      "title": "Trump says Ukraine should get new President as he blames Zelenskyy for U.S. diesel prices",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/trump-says-ukraine-should-get-new-president-as-he-blames-zelenskyy-for-us-diesel-prices/article71570543.ece",
+      "published": "2026-10-11T10:35:07+05:30"
+    },
+    {
+      "title": "Sensitive polling booth data being collected to ensure free and fair elections: Vizianagaram Collector Ramsundar Reddy",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/andhra-pradesh/sensitive-polling-booth-data-being-collected-to-ensure-free-and-fair-elections-vizianagaram-collector-ramsundar-reddy/article71570517.ece",
+      "published": "2026-10-11T10:31:19+05:30"
+    },
+    {
+      "title": "Haryana cabinet gives nod to amendments to Agniveer policy for gainful employment",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/haryana/haryana-cabinet-gives-nod-to-amendments-to-agniveer-policy-for-gainful-employment/article71568250.ece",
+      "published": "2026-10-11T10:31:12+05:30"
+    },
+    {
+      "title": "Former Japanese PM’s wife Akie Abe meets RSS general secretary Dattatreya Hosabale",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/former-japanese-pms-wife-akie-abe-meets-rss-general-secretary-dattatreya-hosabale/article71569403.ece",
+      "published": "2026-10-11T10:27:07+05:30"
+    },
+    {
+      "title": "Anti-CEC protest LIVE updates: Dipke, Das and Ranka released on condition of 'no breach of peace for one year', CJP's legal head says - The Hindu",
+      "source": "Google News India",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPVlpJcnBPcnFjSzRYRGFSbGM3ZmxFM3d3T3RqX1JWajNIaDZFbkR5bVN4T3czbmZqM2pjdXZRdHRRRGNwSDhFdnl6ME5JcmhfSTM2QTlQNmpPdEo2cVl3alJXd1k5R1dWWkdYY0x4SGdXYWJHT2lJQnAxRTZLUXRqSWdZTXVzV0l5LTFnMF9HR0tVSG9aWTZHUFdSX2ZLU0l0SVJOQmRNcV9oWDhQX0JSYWd4bW41aVlTMTJ4a0JReTA0ZWZ0SEQ1ZThNTWZCZ3FBSk9UcjJaV25BRHF4eDVNYlFZWXBvUkhBajBXem1lbUFDQTdMN1ZtU0lPb3phMExXcnpnM1ZkVFdUWFBILUd2N2k0SdIBmgJBVV95cUxPUndNMzA4VFV1Q1ZpY1VTY3piYmhZLWJzelJzMFVqVi1YOEd2Ry1hbHZzS2EzdTlzUHZ2T0ZhRWw0dmJJeWllQ2JJVDF0ZUZxd1hvVDhvTmNFQWktakp1Z3ltWVlCWFNwVXR6RlA3VDlPZk9kcmRmWlo2aWEzRkxMV3p1WUVNUjhZN0hUcXRfb1F3bmJwZDJuN21MUTlOOFlyMWR2d0ltNGw4bHV0U2dBNTdQSi1acG5sWEhYc25QX0drRDBsazhtbnI1d29RamFzcERGWmVvSVYtQ1p2TXlCMXE2UjRBZDFrNVJDcERaM2NsYTQ3cE9OeDItTVZEZ1BsQjdZRHhrb0R6R1ZtaW9PVlN5bkxXaEVTM2c?oc=5",
+      "published": "2026-10-11T04:56:32+00:00"
+    }
+  ],
+  "questions": [
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Fundamental Rights",
+      "question": "Which Article of the Indian Constitution guarantees the Right to Constitutional Remedies?",
+      "options": [
+        "Article 14",
+        "Article 21",
+        "Article 19",
+        "Article 32"
+      ],
+      "answer_index": 3,
+      "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering citizens to move the Supreme Court directly for enforcement of Fundamental Rights. Dr. B. R. Ambedkar called it the 'heart and soul' of the Constitution.",
+      "id": "2026-10-11-01"
+    },
+    {
+      "category": "Polity",
+      "difficulty": "easy",
+      "topic": "Parliament",
+      "question": "How many members can the President of India nominate to the Rajya Sabha?",
+      "options": [
+        "10",
+        "12",
+        "2",
+        "14"
+      ],
+      "answer_index": 1,
+      "explanation": "Under Article 80, the President nominates 12 members to the Rajya Sabha from persons with special knowledge or practical experience in art, literature, science and social service.",
+      "id": "2026-10-11-02"
+    },
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Borrowed Features",
+      "question": "The Directive Principles of State Policy in the Indian Constitution are borrowed from the constitution of which country?",
+      "options": [
+        "United Kingdom",
+        "Ireland",
+        "United States",
+        "Canada"
+      ],
+      "answer_index": 1,
+      "explanation": "The Directive Principles of State Policy (Part IV) were borrowed from the Irish Constitution, which had itself drawn the idea from the Spanish Constitution. They are non-justiciable guidelines for governance.",
+      "id": "2026-10-11-03"
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Modern India",
+      "question": "The Battle of Plassey, which laid the foundation of British rule in Bengal, was fought in which year?",
+      "options": [
+        "1764",
+        "1761",
+        "1757",
+        "1772"
+      ],
+      "answer_index": 2,
+      "explanation": "The Battle of Plassey (1757) was fought between the British East India Company under Robert Clive and Siraj-ud-Daulah, the Nawab of Bengal. The Battle of Buxar followed in 1764.",
+      "id": "2026-10-11-04"
+    },
+    {
+      "category": "History",
+      "difficulty": "easy",
+      "topic": "Freedom Struggle",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        "1945",
+        "1942",
+        "1930",
+        "1947"
+      ],
+      "answer_index": 1,
+      "explanation": "The Quit India Movement was launched on 8 August 1942 at the Bombay session of the All India Congress Committee, where Gandhi gave the famous 'Do or Die' call.",
+      "id": "2026-10-11-05"
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Socio-Religious Reform",
+      "question": "Who founded the Arya Samaj in 1875?",
+      "options": [
+        "Ishwar Chandra Vidyasagar",
+        "Raja Ram Mohan Roy",
+        "Swami Dayananda Saraswati",
+        "Swami Vivekananda"
+      ],
+      "answer_index": 2,
+      "explanation": "Swami Dayananda Saraswati founded the Arya Samaj in 1875 in Bombay. Its motto, 'Back to the Vedas', promoted social reform and opposed idol worship and casteism.",
+      "id": "2026-10-11-06"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "easy",
+      "topic": "Rivers",
+      "question": "Which is the longest river flowing entirely within India?",
+      "options": [
+        "Brahmaputra",
+        "Ganga",
+        "Godavari",
+        "Yamuna"
+      ],
+      "answer_index": 1,
+      "explanation": "The Ganga (about 2,525 km) is the longest river within India. The Godavari is the longest peninsular river, often called the 'Dakshin Ganga'.",
+      "id": "2026-10-11-07"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Latitudes",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "9",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer_index": 2,
+      "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+      "id": "2026-10-11-08"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Mountain Passes",
+      "question": "Which mountain pass connects India with China in the state of Sikkim?",
+      "options": [
+        "Zoji La",
+        "Palghat Gap",
+        "Nathu La",
+        "Rohtang Pass"
+      ],
+      "answer_index": 2,
+      "explanation": "Nathu La, part of the ancient Silk Route, connects Sikkim with the Tibet Autonomous Region of China. It was reopened for border trade in 2006.",
+      "id": "2026-10-11-09"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "hard",
+      "topic": "Public Finance",
+      "question": "Fiscal deficit is best defined as:",
+      "options": [
+        "Excess of government borrowing over repayment",
+        "Excess of total expenditure over total receipts excluding borrowings",
+        "The difference between exports and imports",
+        "Excess of revenue expenditure over revenue receipts"
+      ],
+      "answer_index": 1,
+      "explanation": "Fiscal deficit equals total expenditure minus total receipts excluding borrowings. It indicates the total borrowing requirement of the government in a financial year.",
+      "id": "2026-10-11-10"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Monetary Policy",
+      "question": "Which institution is responsible for formulating monetary policy in India?",
+      "options": [
+        "NITI Aayog",
+        "Ministry of Finance",
+        "SEBI",
+        "Reserve Bank of India"
+      ],
+      "answer_index": 3,
+      "explanation": "The Reserve Bank of India (RBI), through its Monetary Policy Committee (MPC), sets the repo rate to achieve the inflation target of 4% (plus or minus 2%).",
+      "id": "2026-10-11-11"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Taxation",
+      "question": "On which date was the Goods and Services Tax (GST) implemented across India?",
+      "options": [
+        "1 April 2016",
+        "15 August 2017",
+        "1 January 2017",
+        "1 July 2017"
+      ],
+      "answer_index": 3,
+      "explanation": "GST came into force on 1 July 2017 via the 101st Constitutional Amendment, replacing multiple indirect taxes under the principle of 'One Nation, One Tax'. The GST Council is its apex decision-making body.",
+      "id": "2026-10-11-12"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Atmosphere",
+      "question": "Which gas is the most abundant in the Earth's atmosphere?",
+      "options": [
+        "Carbon dioxide",
+        "Argon",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer_index": 3,
+      "explanation": "Nitrogen makes up about 78% of the atmosphere by volume, followed by oxygen at about 21%. Argon and carbon dioxide are present in much smaller amounts.",
+      "id": "2026-10-11-13"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "topic": "Biotechnology",
+      "question": "CRISPR-Cas9 is a technology primarily used for:",
+      "options": [
+        "Vaccine production",
+        "Water purification",
+        "Solar energy generation",
+        "Gene editing"
+      ],
+      "answer_index": 3,
+      "explanation": "CRISPR-Cas9 is a precise gene-editing tool. Emmanuelle Charpentier and Jennifer Doudna won the 2020 Nobel Prize in Chemistry for developing it.",
+      "id": "2026-10-11-14"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Space",
+      "question": "Near which lunar region did ISRO's Chandrayaan-3 successfully soft-land in 2023?",
+      "options": [
+        "Equator",
+        "South Pole",
+        "North Pole",
+        "Sea of Tranquility"
+      ],
+      "answer_index": 1,
+      "explanation": "On 23 August 2023, the Vikram lander of Chandrayaan-3 touched down near the Moon's south pole, making India the first country to land in that region.",
+      "id": "2026-10-11-15"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Atmospheric Science",
+      "question": "Which group of gases is primarily responsible for depletion of the ozone layer?",
+      "options": [
+        "Carbon dioxide",
+        "Nitrogen",
+        "Chlorofluorocarbons (CFCs)",
+        "Methane"
+      ],
+      "answer_index": 2,
+      "explanation": "Chlorofluorocarbons (CFCs) release chlorine that destroys ozone. The Montreal Protocol (1987) phases out such ozone-depleting substances.",
+      "id": "2026-10-11-16"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Conservation",
+      "question": "In which year was Project Tiger launched in India?",
+      "options": [
+        "1991",
+        "1973",
+        "1972",
+        "1985"
+      ],
+      "answer_index": 1,
+      "explanation": "Project Tiger was launched in 1973 to protect the Bengal tiger. It is administered today by the National Tiger Conservation Authority (NTCA).",
+      "id": "2026-10-11-17"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "easy",
+      "topic": "Conventions",
+      "question": "The Ramsar Convention is associated with the conservation of:",
+      "options": [
+        "Deserts",
+        "Wetlands",
+        "Coral reefs",
+        "Forests"
+      ],
+      "answer_index": 1,
+      "explanation": "The Ramsar Convention (1971) is an international treaty for the conservation and sustainable use of wetlands. India has over 80 designated Ramsar sites.",
+      "id": "2026-10-11-18"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "medium",
+      "topic": "Legislation",
+      "question": "The Nari Shakti Vandan Adhiniyam (2023) provides reservation for women in which bodies?",
+      "options": [
+        "The Union Cabinet",
+        "Lok Sabha and State Legislative Assemblies",
+        "Rajya Sabha only",
+        "Panchayats only"
+      ],
+      "answer_index": 1,
+      "explanation": "Enacted as the 106th Constitutional Amendment, the Nari Shakti Vandan Adhiniyam provides 33% reservation for women in the Lok Sabha and State Legislative Assemblies.",
+      "id": "2026-10-11-19"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "Global Summits",
+      "question": "In which year did India hold the G20 Presidency and host the Leaders' Summit in New Delhi?",
+      "options": [
+        "2023",
+        "2021",
+        "2024",
+        "2022"
+      ],
+      "answer_index": 0,
+      "explanation": "India held the G20 Presidency from December 2022 to November 2023, hosting the summit in New Delhi in September 2023 under the theme 'Vasudhaiva Kutumbakam - One Earth, One Family, One Future'.",
+      "id": "2026-10-11-20"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "question": "Which city hosted the 2024 Summer Olympic Games?",
+      "options": [
+        "Paris",
+        "Tokyo",
+        "Brisbane",
+        "Los Angeles"
+      ],
+      "answer_index": 0,
+      "explanation": "Paris, France hosted the 2024 Summer Olympics. Los Angeles is scheduled to host the next edition in 2028.",
+      "id": "2026-10-11-21"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Groupings",
+      "question": "Which country joined the original BRIC grouping in 2010 to form BRICS?",
+      "options": [
+        "Singapore",
+        "South Korea",
+        "Saudi Arabia",
+        "South Africa"
+      ],
+      "answer_index": 3,
+      "explanation": "South Africa joined Brazil, Russia, India and China in 2010, turning BRIC into BRICS. The grouping expanded further with new members from 2024.",
+      "id": "2026-10-11-22"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Groupings",
+      "question": "The QUAD grouping consists of India, the United States, Japan and which fourth country?",
+      "options": [
+        "Australia",
+        "United Kingdom",
+        "South Korea",
+        "France"
+      ],
+      "answer_index": 0,
+      "explanation": "The QUAD (Quadrilateral Security Dialogue) comprises India, the USA, Japan and Australia, focusing on a free, open and inclusive Indo-Pacific.",
+      "id": "2026-10-11-23"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "easy",
+      "topic": "United Nations",
+      "question": "Where is the headquarters of the United Nations located?",
+      "options": [
+        "Geneva",
+        "New York",
+        "Paris",
+        "Vienna"
+      ],
+      "answer_index": 1,
+      "explanation": "The UN headquarters is in New York City, USA. Other major UN offices are in Geneva, Vienna and Nairobi.",
+      "id": "2026-10-11-24"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Classical Dance",
+      "question": "The classical dance form Bharatanatyam originated in which Indian state?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "answer_index": 0,
+      "explanation": "Bharatanatyam originated in Tamil Nadu and is one of the eight classical dance forms of India recognised by the Sangeet Natak Akademi.",
+      "id": "2026-10-11-25"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "medium",
+      "topic": "Architecture",
+      "question": "The Khajuraho group of temples was built by which dynasty?",
+      "options": [
+        "Cholas",
+        "Chandelas",
+        "Pallavas",
+        "Rashtrakutas"
+      ],
+      "answer_index": 1,
+      "explanation": "The Khajuraho temples were built by the Chandela dynasty between the 9th and 11th centuries. They are a UNESCO World Heritage Site known for Nagara-style architecture.",
+      "id": "2026-10-11-26"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Classical Dance",
+      "question": "Kathakali, known for its elaborate costumes and facial expressions, is a classical dance form of which state?",
+      "options": [
+        "Kerala",
+        "Odisha",
+        "Manipur",
+        "Assam"
+      ],
+      "answer_index": 0,
+      "explanation": "Kathakali is a classical dance-drama of Kerala, distinguished by its colourful make-up, elaborate costumes and stylised expressions drawn from epics.",
+      "id": "2026-10-11-27"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Agriculture",
+      "question": "Under the PM-KISAN scheme, what annual income support is given to eligible farmer families?",
+      "options": [
+        "Rs 2,000",
+        "Rs 6,000",
+        "Rs 10,000",
+        "Rs 12,000"
+      ],
+      "answer_index": 1,
+      "explanation": "PM-KISAN provides Rs 6,000 per year to eligible farmer families in three equal installments of Rs 2,000, transferred directly to bank accounts.",
+      "id": "2026-10-11-28"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Social Welfare",
+      "question": "In which year was the Beti Bachao Beti Padhao scheme launched?",
+      "options": [
+        "2015",
+        "2014",
+        "2016",
+        "2017"
+      ],
+      "answer_index": 0,
+      "explanation": "Beti Bachao Beti Padhao was launched in January 2015 from Panipat, Haryana, to address the declining child sex ratio and promote education of the girl child.",
+      "id": "2026-10-11-29"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "medium",
+      "topic": "Health",
+      "question": "Ayushman Bharat (PM-JAY) provides health cover of up to how much per family per year?",
+      "options": [
+        "Rs 1 lakh",
+        "Rs 3 lakh",
+        "Rs 10 lakh",
+        "Rs 5 lakh"
+      ],
+      "answer_index": 3,
+      "explanation": "PM-JAY provides health cover of up to Rs 5 lakh per family per year for secondary and tertiary care hospitalisation. It is among the world's largest health assurance schemes.",
+      "id": "2026-10-11-30"
+    }
+  ]
+}
