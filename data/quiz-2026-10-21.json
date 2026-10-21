@@ -1,0 +1,628 @@
+{
+  "date": "2026-10-21",
+  "generated_at": "2026-10-21T10:35:03.662663+05:30",
+  "generator": "fallback-bank",
+  "categories": [
+    "Polity",
+    "History",
+    "Geography",
+    "Economy",
+    "Science & Tech",
+    "Environment",
+    "Current Affairs",
+    "International Relations",
+    "Art & Culture",
+    "Govt Schemes"
+  ],
+  "category_counts": {
+    "Polity": 3,
+    "History": 3,
+    "Geography": 3,
+    "Economy": 3,
+    "Science & Tech": 3,
+    "Environment": 3,
+    "Current Affairs": 3,
+    "International Relations": 3,
+    "Art & Culture": 3,
+    "Govt Schemes": 3
+  },
+  "count": 30,
+  "news": [
+    {
+      "title": "Special officers to administer rural local bodies in 37 districts till April 2027 in T.N.",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/special-officers-to-administer-rural-local-bodies-in-37-districts-till-april-2027-in-tn/article71606232.ece",
+      "published": "2026-10-21T10:31:25+05:30"
+    },
+    {
+      "title": "Tamil Nadu rains LIVE: Schools declare holiday in Chennai, four other districts",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rains-live-updates-chennai-school-holiday-october-21-2026/article71606190.ece",
+      "published": "2026-10-21T10:19:10+05:30"
+    },
+    {
+      "title": "AI Robot Security Blocks Hidden Trigger Attacks - Open Source For You",
+      "source": "Google News India",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEt1YzBqMWcyRlpaVnBTUGxYRWl3WVJLVEhUMndmbWcyaFc1bFNzdk9QX2J4cmhJeEFaOEc1WGxqYXlGbE5oX3RaazFDQ3BRQVRvTU5JUVVwd3R3d0VITFhXUTdPcEcyY3lqRWNmaUFncmhYNGxnaU5DR2JMS3JuU2F4M2toM19NbktEUXNrWTk?oc=5",
+      "published": "2026-10-21T04:45:48+00:00"
+    },
+    {
+      "title": "French PM to meet unions as government prepares for more protests",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/french-pm-to-meet-unions-as-government-prepares-for-more-protests/article71606220.ece",
+      "published": "2026-10-21T10:05:51+05:30"
+    },
+    {
+      "title": "Speed up utilisation of SC and ST Sub-Plan Funds: Bhatti",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/telangana/telangana-fm-bhatti-urges-rapid-utilization-of-scst-sub-plan-funds/article71604584.ece",
+      "published": "2026-10-21T09:45:24+05:30"
+    },
+    {
+      "title": "T.N. Health Minister directs officials to ensure hospital preparedness, uninterrupted health services during monsoon",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/chennai/health-minister-directs-officials-to-ensure-hospital-preparedness-uninterrupted-health-services-during-monsoon/article71605153.ece",
+      "published": "2026-10-21T09:38:48+05:30"
+    },
+    {
+      "title": "Keralam seeks FSSAI clarity on high fat, sugar, salt food",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/kerala/keralam-seeks-fssai-clarity-on-high-fat-sugar-salt-food/article71604523.ece",
+      "published": "2026-10-21T09:35:42+05:30"
+    },
+    {
+      "title": "Disability group urges Centre to classify communication aids as essential products",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/disability-group-urges-centre-to-classify-communication-aids-as-essential-products/article71603955.ece",
+      "published": "2026-10-21T09:35:07+05:30"
+    },
+    {
+      "title": "Motorcycle stunts, horse riding shows await spectators at Mysuru Torchlight Parade",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/karnataka/spectacular-torchlight-parade-in-mysuru/article71604368.ece",
+      "published": "2026-10-21T09:34:56+05:30"
+    },
+    {
+      "title": "Elon Musk says he backs SpaceX-Tesla merger as rocket firm turns profit",
+      "source": "The Hindu - Business",
+      "link": "https://www.thehindu.com/sci-tech/technology/elon-musk-says-he-backs-spacex-tesla-merger-as-rocket-firm-turns-profit/article71606098.ece",
+      "published": "2026-10-21T09:30:04+05:30"
+    },
+    {
+      "title": "U.S.-India perfectly aligned on core issues: Marco Rubio",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/marco-rubio-mumbai-visit-october-20-2026/article71603994.ece",
+      "published": "2026-10-21T09:05:01+05:30"
+    },
+    {
+      "title": "30-foot-high cockroach effigy triggers AAP-BJP war of words",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/cities/Delhi/30-foot-high-cockroach-effigy-triggers-aap-bjp-war-of-words/article71605225.ece",
+      "published": "2026-10-21T08:57:10+05:30"
+    },
+    {
+      "title": "India, U.S. trade deal to be much different: Donald Trump",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece",
+      "published": "2026-10-21T08:52:10+05:30"
+    },
+    {
+      "title": "India, U.S. trade deal to be much different: Donald Trump - The Hindu",
+      "source": "Google News India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGYtRUs5b2VjbG51aWlJbHJvQWFuSkJmdk5JUWpUU01jb0MzMXB3VnZlaUNpYzVhVWFmZTBWSE80Z0tWUzBXekVmQ09uN052ZXBfTzhhd250aE1rM043T1M0QkZoVXJrT21FcG8zbEFqMUIya3dUMVFQd0t6YW1PbTFXR2QtQjd4clNWT0NwdXd5Sm1SaEw1eWFVRjZicTRrY3VQQXBtei1qTnM0Y1FsOG5pREtzY2pG0gG_AUFVX3lxTFAyVHp6M2c2NjllMUNXMjJQazhwZUJaNDRVU2JmQmk0RlFfNXVXUFd6d0ZjcmlsWGdvNlI1VVhiR24xSjRCeTYtYjVKT3c2c2dVTGhwZ0R4WnZ2Y0J4M2QxOGtJUjhoUUFSSFNGVnJldGV2bkV3Q3A3emJKdDZCQ2EwaXRZSXEyVDdUcWhleUlQQnQyOFhDOXRyQkRJcENkMl9NS2pXUjloQWdpSDNBbXZ2RXo5TzM0bVVsSC1Dc3Zn?oc=5",
+      "published": "2026-10-21T03:21:02+00:00"
+    },
+    {
+      "title": "Can India turn retrofitment into the next mobility revolution?",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/can-india-turn-retrofitment-into-the-next-mobility-revolution/article71605340.ece",
+      "published": "2026-10-21T08:48:25+05:30"
+    },
+    {
+      "title": "Tamil Nadu rain: Schools in Chennai, four other districts declare holiday",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece",
+      "published": "2026-10-21T08:44:49+05:30"
+    },
+    {
+      "title": "France arrests man, calls in anti-terror police over town hall protest fire",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece",
+      "published": "2026-10-21T08:37:32+05:30"
+    },
+    {
+      "title": "Rupee to rise on Jio IPO inflows, RBI while oil risks cloud outlook - Reuters",
+      "source": "Affairs/Policy (Google News)",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTW50dk9NZE9aaGFzX24yNmxGN19HMlRSd29NajBxMFVXdDQ5RUVHYUVGTVBFX21jZDM4bnNVVXVFVE1jOHowcUpVWHJnNUZkSEVxaS1samY5ems0MEtqUUJGWm9OS0dmZGp1bmVkcEp3cTVMbmRkTi04LXpzT0lFQlhFYm9RbnZVYXM3ZkJoTTVBYlRLS3dvY1FRNmFrcDJFSXI3Qm9zMGk5TlZp?oc=5",
+      "published": "2026-10-21T03:07:00+00:00"
+    },
+    {
+      "title": "NATO sending planes, radars to Black Sea after drone attacks",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-radars/article71606091.ece",
+      "published": "2026-10-21T08:16:06+05:30"
+    },
+    {
+      "title": "T.N. government should construct new Secretariat complex outside Chennai, says Anbumani",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/tamil-nadu/tn-government-should-construct-new-secretariat-complex-outside-chennai-says-anbumani/article71604935.ece",
+      "published": "2026-10-21T08:04:17+05:30"
+    },
+    {
+      "title": "IEA chief sees little chance of oil market 'normalisation' next year",
+      "source": "The Hindu - International",
+      "link": "https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece",
+      "published": "2026-10-21T07:54:16+05:30"
+    },
+    {
+      "title": "Drone strike kills more than 150 at market in Sudanese war - The Guardian",
+      "source": "Google News India",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZHdPdHJvbUlsMVFnY29MWXpHZHZJQjN6dXRoVW5vVmp0Qng5ZjItd25wZ014Y29EMGFOWDY1b1JWdV9lRTcyS21leHVzNUQ3aTRDMU5wLTlqUXhoYXRuTkNjZUVVTjF1dFYyMzNLM0tieU9VNWhVUzJILTdWT3MzQ3VUc3Y5cGkxVjhpN3hXcGZielpTU0xITVo4eVpnRUU?oc=5",
+      "published": "2026-10-21T02:22:58+00:00"
+    },
+    {
+      "title": "Delhi Police transfers second case against Das, Ranka to Crime Branch",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/delhi-police-transfers-second-case-against-das-ranka-to-crime-branch/article71606050.ece",
+      "published": "2026-10-21T07:48:51+05:30"
+    },
+    {
+      "title": "West Bengal CM meets families of deceased in Kolkata puja pandal stampede",
+      "source": "The Hindu - National",
+      "link": "https://www.thehindu.com/news/national/west-bengal/west-bengal-cm-meets-families-of-deceased-in-kolkata-puja-pandal-stampede/article71605079.ece",
+      "published": "2026-10-21T07:31:31+05:30"
+    }
+  ],
+  "questions": [
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Fundamental Rights",
+      "question": "Which Article of the Indian Constitution guarantees the Right to Constitutional Remedies?",
+      "options": [
+        "Article 19",
+        "Article 14",
+        "Article 21",
+        "Article 32"
+      ],
+      "answer_index": 3,
+      "explanation": "Article 32 guarantees the Right to Constitutional Remedies, empowering citizens to move the Supreme Court directly for enforcement of Fundamental Rights. Dr. B. R. Ambedkar called it the 'heart and soul' of the Constitution.",
+      "id": "2026-10-21-01"
+    },
+    {
+      "category": "Polity",
+      "difficulty": "medium",
+      "topic": "Borrowed Features",
+      "question": "The Directive Principles of State Policy in the Indian Constitution are borrowed from the constitution of which country?",
+      "options": [
+        "United States",
+        "Ireland",
+        "Canada",
+        "United Kingdom"
+      ],
+      "answer_index": 1,
+      "explanation": "The Directive Principles of State Policy (Part IV) were borrowed from the Irish Constitution, which had itself drawn the idea from the Spanish Constitution. They are non-justiciable guidelines for governance.",
+      "id": "2026-10-21-02"
+    },
+    {
+      "category": "Polity",
+      "difficulty": "easy",
+      "topic": "Parliament",
+      "question": "How many members can the President of India nominate to the Rajya Sabha?",
+      "options": [
+        "14",
+        "2",
+        "10",
+        "12"
+      ],
+      "answer_index": 3,
+      "explanation": "Under Article 80, the President nominates 12 members to the Rajya Sabha from persons with special knowledge or practical experience in art, literature, science and social service.",
+      "id": "2026-10-21-03"
+    },
+    {
+      "category": "History",
+      "difficulty": "easy",
+      "topic": "Freedom Struggle",
+      "question": "In which year was the Quit India Movement launched?",
+      "options": [
+        "1930",
+        "1942",
+        "1947",
+        "1945"
+      ],
+      "answer_index": 1,
+      "explanation": "The Quit India Movement was launched on 8 August 1942 at the Bombay session of the All India Congress Committee, where Gandhi gave the famous 'Do or Die' call.",
+      "id": "2026-10-21-04"
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Socio-Religious Reform",
+      "question": "Who founded the Arya Samaj in 1875?",
+      "options": [
+        "Ishwar Chandra Vidyasagar",
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Swami Dayananda Saraswati"
+      ],
+      "answer_index": 3,
+      "explanation": "Swami Dayananda Saraswati founded the Arya Samaj in 1875 in Bombay. Its motto, 'Back to the Vedas', promoted social reform and opposed idol worship and casteism.",
+      "id": "2026-10-21-05"
+    },
+    {
+      "category": "History",
+      "difficulty": "medium",
+      "topic": "Modern India",
+      "question": "The Battle of Plassey, which laid the foundation of British rule in Bengal, was fought in which year?",
+      "options": [
+        "1772",
+        "1757",
+        "1761",
+        "1764"
+      ],
+      "answer_index": 1,
+      "explanation": "The Battle of Plassey (1757) was fought between the British East India Company under Robert Clive and Siraj-ud-Daulah, the Nawab of Bengal. The Battle of Buxar followed in 1764.",
+      "id": "2026-10-21-06"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "easy",
+      "topic": "Rivers",
+      "question": "Which is the longest river flowing entirely within India?",
+      "options": [
+        "Yamuna",
+        "Godavari",
+        "Ganga",
+        "Brahmaputra"
+      ],
+      "answer_index": 2,
+      "explanation": "The Ganga (about 2,525 km) is the longest river within India. The Godavari is the longest peninsular river, often called the 'Dakshin Ganga'.",
+      "id": "2026-10-21-07"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Mountain Passes",
+      "question": "Which mountain pass connects India with China in the state of Sikkim?",
+      "options": [
+        "Palghat Gap",
+        "Nathu La",
+        "Zoji La",
+        "Rohtang Pass"
+      ],
+      "answer_index": 1,
+      "explanation": "Nathu La, part of the ancient Silk Route, connects Sikkim with the Tibet Autonomous Region of China. It was reopened for border trade in 2006.",
+      "id": "2026-10-21-08"
+    },
+    {
+      "category": "Geography",
+      "difficulty": "medium",
+      "topic": "Latitudes",
+      "question": "The Tropic of Cancer passes through how many Indian states?",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "9"
+      ],
+      "answer_index": 0,
+      "explanation": "The Tropic of Cancer passes through 8 Indian states: Gujarat, Rajasthan, Madhya Pradesh, Chhattisgarh, Jharkhand, West Bengal, Tripura and Mizoram.",
+      "id": "2026-10-21-09"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "hard",
+      "topic": "Public Finance",
+      "question": "Fiscal deficit is best defined as:",
+      "options": [
+        "Excess of government borrowing over repayment",
+        "Excess of total expenditure over total receipts excluding borrowings",
+        "The difference between exports and imports",
+        "Excess of revenue expenditure over revenue receipts"
+      ],
+      "answer_index": 1,
+      "explanation": "Fiscal deficit equals total expenditure minus total receipts excluding borrowings. It indicates the total borrowing requirement of the government in a financial year.",
+      "id": "2026-10-21-10"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Monetary Policy",
+      "question": "Which institution is responsible for formulating monetary policy in India?",
+      "options": [
+        "NITI Aayog",
+        "SEBI",
+        "Reserve Bank of India",
+        "Ministry of Finance"
+      ],
+      "answer_index": 2,
+      "explanation": "The Reserve Bank of India (RBI), through its Monetary Policy Committee (MPC), sets the repo rate to achieve the inflation target of 4% (plus or minus 2%).",
+      "id": "2026-10-21-11"
+    },
+    {
+      "category": "Economy",
+      "difficulty": "easy",
+      "topic": "Taxation",
+      "question": "On which date was the Goods and Services Tax (GST) implemented across India?",
+      "options": [
+        "1 July 2017",
+        "1 January 2017",
+        "15 August 2017",
+        "1 April 2016"
+      ],
+      "answer_index": 0,
+      "explanation": "GST came into force on 1 July 2017 via the 101st Constitutional Amendment, replacing multiple indirect taxes under the principle of 'One Nation, One Tax'. The GST Council is its apex decision-making body.",
+      "id": "2026-10-21-12"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Space",
+      "question": "Near which lunar region did ISRO's Chandrayaan-3 successfully soft-land in 2023?",
+      "options": [
+        "Sea of Tranquility",
+        "North Pole",
+        "South Pole",
+        "Equator"
+      ],
+      "answer_index": 2,
+      "explanation": "On 23 August 2023, the Vikram lander of Chandrayaan-3 touched down near the Moon's south pole, making India the first country to land in that region.",
+      "id": "2026-10-21-13"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "medium",
+      "topic": "Biotechnology",
+      "question": "CRISPR-Cas9 is a technology primarily used for:",
+      "options": [
+        "Gene editing",
+        "Solar energy generation",
+        "Water purification",
+        "Vaccine production"
+      ],
+      "answer_index": 0,
+      "explanation": "CRISPR-Cas9 is a precise gene-editing tool. Emmanuelle Charpentier and Jennifer Doudna won the 2020 Nobel Prize in Chemistry for developing it.",
+      "id": "2026-10-21-14"
+    },
+    {
+      "category": "Science & Tech",
+      "difficulty": "easy",
+      "topic": "Atmosphere",
+      "question": "Which gas is the most abundant in the Earth's atmosphere?",
+      "options": [
+        "Argon",
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen"
+      ],
+      "answer_index": 3,
+      "explanation": "Nitrogen makes up about 78% of the atmosphere by volume, followed by oxygen at about 21%. Argon and carbon dioxide are present in much smaller amounts.",
+      "id": "2026-10-21-15"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Conservation",
+      "question": "In which year was Project Tiger launched in India?",
+      "options": [
+        "1973",
+        "1985",
+        "1991",
+        "1972"
+      ],
+      "answer_index": 0,
+      "explanation": "Project Tiger was launched in 1973 to protect the Bengal tiger. It is administered today by the National Tiger Conservation Authority (NTCA).",
+      "id": "2026-10-21-16"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "medium",
+      "topic": "Atmospheric Science",
+      "question": "Which group of gases is primarily responsible for depletion of the ozone layer?",
+      "options": [
+        "Nitrogen",
+        "Chlorofluorocarbons (CFCs)",
+        "Carbon dioxide",
+        "Methane"
+      ],
+      "answer_index": 1,
+      "explanation": "Chlorofluorocarbons (CFCs) release chlorine that destroys ozone. The Montreal Protocol (1987) phases out such ozone-depleting substances.",
+      "id": "2026-10-21-17"
+    },
+    {
+      "category": "Environment",
+      "difficulty": "easy",
+      "topic": "Conventions",
+      "question": "The Ramsar Convention is associated with the conservation of:",
+      "options": [
+        "Forests",
+        "Coral reefs",
+        "Deserts",
+        "Wetlands"
+      ],
+      "answer_index": 3,
+      "explanation": "The Ramsar Convention (1971) is an international treaty for the conservation and sustainable use of wetlands. India has over 80 designated Ramsar sites.",
+      "id": "2026-10-21-18"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "Sports",
+      "question": "Which city hosted the 2024 Summer Olympic Games?",
+      "options": [
+        "Brisbane",
+        "Los Angeles",
+        "Tokyo",
+        "Paris"
+      ],
+      "answer_index": 3,
+      "explanation": "Paris, France hosted the 2024 Summer Olympics. Los Angeles is scheduled to host the next edition in 2028.",
+      "id": "2026-10-21-19"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "medium",
+      "topic": "Legislation",
+      "question": "The Nari Shakti Vandan Adhiniyam (2023) provides reservation for women in which bodies?",
+      "options": [
+        "Lok Sabha and State Legislative Assemblies",
+        "The Union Cabinet",
+        "Panchayats only",
+        "Rajya Sabha only"
+      ],
+      "answer_index": 0,
+      "explanation": "Enacted as the 106th Constitutional Amendment, the Nari Shakti Vandan Adhiniyam provides 33% reservation for women in the Lok Sabha and State Legislative Assemblies.",
+      "id": "2026-10-21-20"
+    },
+    {
+      "category": "Current Affairs",
+      "difficulty": "easy",
+      "topic": "Global Summits",
+      "question": "In which year did India hold the G20 Presidency and host the Leaders' Summit in New Delhi?",
+      "options": [
+        "2023",
+        "2022",
+        "2021",
+        "2024"
+      ],
+      "answer_index": 0,
+      "explanation": "India held the G20 Presidency from December 2022 to November 2023, hosting the summit in New Delhi in September 2023 under the theme 'Vasudhaiva Kutumbakam - One Earth, One Family, One Future'.",
+      "id": "2026-10-21-21"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Groupings",
+      "question": "The QUAD grouping consists of India, the United States, Japan and which fourth country?",
+      "options": [
+        "Australia",
+        "South Korea",
+        "France",
+        "United Kingdom"
+      ],
+      "answer_index": 0,
+      "explanation": "The QUAD (Quadrilateral Security Dialogue) comprises India, the USA, Japan and Australia, focusing on a free, open and inclusive Indo-Pacific.",
+      "id": "2026-10-21-22"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "easy",
+      "topic": "United Nations",
+      "question": "Where is the headquarters of the United Nations located?",
+      "options": [
+        "Paris",
+        "New York",
+        "Geneva",
+        "Vienna"
+      ],
+      "answer_index": 1,
+      "explanation": "The UN headquarters is in New York City, USA. Other major UN offices are in Geneva, Vienna and Nairobi.",
+      "id": "2026-10-21-23"
+    },
+    {
+      "category": "International Relations",
+      "difficulty": "medium",
+      "topic": "Groupings",
+      "question": "Which country joined the original BRIC grouping in 2010 to form BRICS?",
+      "options": [
+        "South Korea",
+        "Saudi Arabia",
+        "Singapore",
+        "South Africa"
+      ],
+      "answer_index": 3,
+      "explanation": "South Africa joined Brazil, Russia, India and China in 2010, turning BRIC into BRICS. The grouping expanded further with new members from 2024.",
+      "id": "2026-10-21-24"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Classical Dance",
+      "question": "The classical dance form Bharatanatyam originated in which Indian state?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "answer_index": 1,
+      "explanation": "Bharatanatyam originated in Tamil Nadu and is one of the eight classical dance forms of India recognised by the Sangeet Natak Akademi.",
+      "id": "2026-10-21-25"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "medium",
+      "topic": "Architecture",
+      "question": "The Khajuraho group of temples was built by which dynasty?",
+      "options": [
+        "Cholas",
+        "Rashtrakutas",
+        "Pallavas",
+        "Chandelas"
+      ],
+      "answer_index": 3,
+      "explanation": "The Khajuraho temples were built by the Chandela dynasty between the 9th and 11th centuries. They are a UNESCO World Heritage Site known for Nagara-style architecture.",
+      "id": "2026-10-21-26"
+    },
+    {
+      "category": "Art & Culture",
+      "difficulty": "easy",
+      "topic": "Classical Dance",
+      "question": "Kathakali, known for its elaborate costumes and facial expressions, is a classical dance form of which state?",
+      "options": [
+        "Assam",
+        "Kerala",
+        "Odisha",
+        "Manipur"
+      ],
+      "answer_index": 1,
+      "explanation": "Kathakali is a classical dance-drama of Kerala, distinguished by its colourful make-up, elaborate costumes and stylised expressions drawn from epics.",
+      "id": "2026-10-21-27"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "medium",
+      "topic": "Health",
+      "question": "Ayushman Bharat (PM-JAY) provides health cover of up to how much per family per year?",
+      "options": [
+        "Rs 1 lakh",
+        "Rs 10 lakh",
+        "Rs 5 lakh",
+        "Rs 3 lakh"
+      ],
+      "answer_index": 2,
+      "explanation": "PM-JAY provides health cover of up to Rs 5 lakh per family per year for secondary and tertiary care hospitalisation. It is among the world's largest health assurance schemes.",
+      "id": "2026-10-21-28"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Agriculture",
+      "question": "Under the PM-KISAN scheme, what annual income support is given to eligible farmer families?",
+      "options": [
+        "Rs 12,000",
+        "Rs 6,000",
+        "Rs 2,000",
+        "Rs 10,000"
+      ],
+      "answer_index": 1,
+      "explanation": "PM-KISAN provides Rs 6,000 per year to eligible farmer families in three equal installments of Rs 2,000, transferred directly to bank accounts.",
+      "id": "2026-10-21-29"
+    },
+    {
+      "category": "Govt Schemes",
+      "difficulty": "easy",
+      "topic": "Social Welfare",
+      "question": "In which year was the Beti Bachao Beti Padhao scheme launched?",
+      "options": [
+        "2017",
+        "2016",
+        "2014",
+        "2015"
+      ],
+      "answer_index": 3,
+      "explanation": "Beti Bachao Beti Padhao was launched in January 2015 from Panipat, Haryana, to address the declining child sex ratio and promote education of the girl child.",
+      "id": "2026-10-21-30"
+    }
+  ]
+}
